@@ -7,7 +7,7 @@ import requests
 
 load_dotenv()
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder="static")
 
 client = OpenAI(api_key=os.getenv("OPENAI_KEY"))
 underdog = os.getenv("ASSISTANT_ID")
@@ -102,7 +102,7 @@ def get_faleconosco_response(prompt):
             "text": prompt
         }
 
-        print("Enviando mensagem para o bot...", message_body)  # LOG PARA DEBUG
+        print(f"Enviando mensagem para o bot... {message_body}")
 
         message_response = requests.post(url_message, json=message_body, headers=headers)
 
@@ -112,16 +112,19 @@ def get_faleconosco_response(prompt):
 
 
         url_activities = f"https://directline.botframework.com/v3/directline/conversations/{conversation_id}/activities"
+        time.sleep(2)
         activities_response = requests.get(url_activities, headers=headers)
-
+        
         messages = activities_response.json().get("activities", [])
 
         for msg in reversed(messages):
-            print(f"🔍 Depurando resposta: {msg}")  # LOG PARA DEPURAÇÃO
-
-            if msg.get("from", {}).get("id") != "user":  
-                # Tenta pegar o texto padrão (caso exista)
+            print(f"🔍 Verificando mensagem do bot: {msg}")  # Log detalhado
+            if msg.get("from", {}).get("id") != "user":
                 text_content = msg.get("text", "")
+
+                # Tenta pegar a resposta mais longa (descartando saudações)
+                if len(text_content) > 10:
+                    return text_content
 
                 # Se não houver texto, tenta extrair do Adaptive Card
                 if not text_content and "attachments" in msg:
@@ -139,8 +142,6 @@ def get_faleconosco_response(prompt):
         return "⚠️ O bot não enviou uma resposta válida."
 
 
-
-        return "Sem resposta do bot."
     except Exception as e:
         return f"Erro no bot FALE CONOSCO: {str(e)}"
 
