@@ -1,0 +1,266 @@
+{
+    "Examples": {
+        "entries": [
+            {
+                "input": "Foto para RG, Foto para identidade, preciso da minha foto para o RG?",
+                "output": "Você deve tirar a fotografia no momento do atendimento. Não é mais necessário levar fotos 3X4. Apenas serão aceitas fotos previamente tiradas de crianças que não possam posar sem amparo de terceiros. Nesse caso, o FUNDO da foto deve ser BRANCO."
+            },
+            {
+                "input": "Preciso levar o recém-nascido para  a identidade, RG? preciso levar meu bebê para  a identidade? minha criança de colo para  a CIN",
+                "output": "É necessário levar o menor de 16 anos no dia do agendamento, para realização da Coleta das Digitais e seu registro no sistema de identificação da Polícia Civil."
+            },
+            {
+                "input": "2ª via RG e outras vias de RG,  segunda via de identidade, terceira, segunda  via da carteira de identidade nacional, perdi o RG e quero a segunda via , perdi a identidade, roubaram a identidade ou rg, fui roubado e quero segunda via da identidade, assaltado e preciso da segunda via da identidade ou rg , preciso de nova via, onde fazer, como faço, onde agendo, expedir, nova identidade, minha nova identidade, fiz.",
+                "output": "Para  a Carteira de identidade nacional (CIN) segunda via, basta agendar o atendimento no site cidadao.mg.gov.br e faça login com CPF e senha GOV em seguida escolha a opção : carteira de identidade, agendar emissão da carteira de identidade, carteira de identidade nacional, irá direcionar para uma pagina com a foto do novo RG , sendo necessário responder a pergunta Você já emitiu a sua Carteira de Identidade Nacional ? irá marcar sim ou não de acordo com sua necessidade, após responder a pergunta deverá realizar o agendamento preenchendo o formulário com município data e horário que deseja atendimento e logo em seguida confirmar o agendamento.\nPara menor de 16 anos, o agendamento poderá ser realizado através do acesso gov.br dos pais ou responsável legal. Esclarecemos que existem casos de isenção do pagamento da taxa são eles a º1 via do documento, pessoas que são inscritas no Cad Único, apresentar folha resumo para comprovação e nos casos de perda ou roubo apresentar Boletim de Ocorrência com validade de 60 dias, caso não atenda os requisitos para isenção é necessário pagar uma taxa no valor de R$105,59 é de suma importância comparecer a unidade com 15 minutos de antecedência do horário agendado."
+            },
+            {
+                "input": "Segunda via tem que pagar, pagamento da taxa, valor identidade, quanto custa, preço, Tenho gratuidade na emissão do CIN, carteira de identidade, RG Nacional, isenção, não pagar, cad unico, papel do cras, Quanto  custa o valor da Identidade.",
+                "output": "A carteira de Identidade Nacional é Gratuito nos casos de emissão de primeira via, hipossuficiência( CAD UNICO) apresentar folha resumo do cadastro unico, nos casos de furto/roubo do documento é necessário apresentar Boletim de Ocorrência dentro do prazo máximo de 60 dias da data do fato - consulte a Portaria nº 004/IIMG`/2022. Nas situações de Perda ou extravio da Carteira de Identidade Nacional no período de validade do documento: R$ 105,59. Para  o Documento de Arrecadação Estadual (DAE), acesse: https://daeonline1.fazenda.mg.gov.br/daeonline/executeEmissaoDocumentoArrecadacao PoliciaCivil.action"
+            },
+            {
+                "input": "Fiz RG ou identidade e gostaria de verificar o andamento do pedido, Gostaria de acompanhar a entrega do meu RG,identidade, Gostaria de rastrear a entrega do meu RG,identidade",
+                "output": "O prazo para entrega da identidade é de 15 dias úteis, podendo ser prorrogado caso seja necessário regularizar alguma pendência. Na funcionalidade \"Consultar Situação da Emissão de Carteira de Identidade\" disponível no menu \"Carteira de Identidade\" do aplicativo MG app ou site cidadao.mg.gov.br você consegue acompanhar o status do processo de emissão da sua Carteira de Identidade Nacional."
+            },
+            {
+                "input": "Consultar agendamento, cancelar agendamento, pesquisar, pesquiso, informação, alterar data do agendamento",
+                "output": "A Consulta e Cancelamento de Agendamento através do Portal do Cidadão, tenha em mãos o número do Protocolo de Agendamento e seu CPF, acesse o site: www.mg.gov.br Siga o passo a passo acessando:  \"Agendamento de Serviços\", \"Consultar/Recuperar Protocolo\". Caso tenha perdido o número do protocolo informe seu CPF/CNPJ e o enviaremos para seu e-mail.  Se você desejar cancelar o agendamento, acesse-o e faça o cancelamento.\nPara consulta e cancelamento de Agendamento pelo Aplicativo MG APP, Acesse: cidadao.mg.gov.br\nFaça login com o CPF e senha do GOV\" Escolha a opção meus agendamentos\nClique em consultar agendamento e terá acesso a confirmação do agendamento."
+            },
+            {
+                "input": "Agendamento em caso de menor de 16 anos para RG - identidade -documentos, quais, documentação",
+                "output": "No caso de menor de 16 anos o agendamento poderá ser realizado no CPF e senha GOV do pai, mãe ou responsável legal, O agendamento é realizado pelo aplicativo MG CIDADÃO ou portal do cidadão através do link: https://www.mg.gov.br/pagina/como- agendar-carteira-de-identidade-nacional\nClique no botão abaixo \"Agendar Atendimento\", que irá redirecionar para o portal Cidadão MG;\nClique em \"Entrar com o GOV\" (Uma página externa do Governo Federal será aberta em seu navegador);\nDigite o CPF e clique em “Continuar”;\nCaso ainda não possua essa conta, será necessário escolher uma opção de cadastro e seguir os passos indicados;\nApós finalizar o acesso por meio do GOV\", faça o agendamento, preenchendo os dados solicitados.\nEsclarecemos que existem casos de isenção do pagamento da taxa são eles a º1 via da Carteira de Identidade Nacional, pessoas que são inscritas no Cad Único, aprsentar folha resumo para comprovação e nos casos de perda ou roubo aprensentar Boletim de Ocorrência com validade de 60 dias, caso não atenda os requisitos para isenção é necessário pagar uma taxa no valor de  R$105,59 é de suma importancia comparecer a unidade com 15 minutos de antecedencia do horário agendado."
+            },
+            {
+                "input": "Restituição de taxa - pedir - reembolso, devolução, valor pago, ressarcimento",
+                "output": "Para requerer a restituição do pagamento da DAE, o contribuinte deverá:\n1.Separar todos os documentos relativos ao pagamento e digitalize-os individualmente em formato PDF. Nesse caso, eles deverão ser anexados ao processo durante o preenchimento, na aba “Anexos”, conforme instruções abaixo.\n2. Acesse o endereço a seguir para ser exibida página para preenchimento da solicitação: https://www2.fazenda.mg.gov.br/sol/ctrl/SOL/SERVWEB/CADASTRO_002?ACAO=VISUALI ZAR\n3.Preencher, na ABA RESTITUIÇÃO, os campos identificação do requerente, dados do endereço, dados de contato, dados da solicitação e dados bancários.\n4.Após a confirmação do pedido, o sistema exibe para o interessado o número de protocolo e de senha para acompanhamento da solicitação pelo sistema da SEF e também a relação dos documentos necessários para a análise do pedido.\n5.Ao clicar em “Imprimir Comprovante de Protocolo” o sistema exibe o comprovante em “PDF” para impressão pelo interessado.\nDocumentação:\n•Declaração expedida pela autoridade responsável constando que o motivo do pagamento da taxa não se efetivou pela não prestação do serviço ou outra razão de acordo com a legislação pertinente a cada taxa.\n•Pessoa física: identidade e CPF.\n•Pessoa jurídica: CNPJ, Contrato Social e última Alteração Contratual ou Estatuto e última Ata da Assembleia de Eleição da Diretoria.\n* Representado: documentos acima citados e procuração (original ou cópia), documentos de identidade e CPF do procurador.\nAnexar documentos posteriormente\nCaso a SEF solicite novos documentos ou o contribuinte não anexou os documentos no momento do protocolo, ele deverá:\n1. Acessar o endereço: https://www2.fazenda.mg.gov.br/sol/"
+            },
+            {
+                "input": "Entrega de RG - ,chegou, prazo para entrega do RG,Como eu pego meu documento ? Como eu busco minha identidade? Andamento da identidade",
+                "output": "O prazo para entrega da identidade é de 15 dias úteis, podendo ser prorrogado caso seja necessário regularizar alguma pendência. Na funcionalidade \"Consultar Situação da Emissão de Carteira de Identidade\" disponível no menu \"Carteira de Identidade\" do aplicativo MG app ou site cidadao.mg.gov.br você consegue acompanhar o status do processo de emissão da sua Carteira de Identidade Nacional , ao realizar a consulta do rastreio, caso obtenha a informação de que o documento já está disponivel para retirada na Unidade onde emitiu o documento, poderá comparecer dentro do horário de funcionamento não é necessário realizar o agendamento."
+            },
+            {
+                "input": "Sou PCD (Pessoa com Deficiência), gostaria de saber se consigo colocar o símbolo de inclusão PCD na minha carteira de identidade",
+                "output": "Para  a Carteira de Identidade Nacional (CIN) com a informação da deficiência / condição de saúde é necessário agendamento prévio feito pelo portal www.mg.gov.br ou APP MG CIDADÃO. Acesse o link https://www.mg.gov.br/pagina/como-agendar-carteira-de-identidade-nacional sendo necessário apresentar os seguintes documentos:\n Certidão de nascimento, caso solteiro, ou  certidão de casamento, caso casado, ou ainda, certidão de casamento com averbação do divorcio, caso divorciado. Certidão ou Declaração de União Estável não será aceita.\nAlém disso, deve apresentar Laudo/relatório/exames comprobatório deficiência / condição de saúde.\nA Foto é tirada no ato da emissão, existem casos de isenção do pagamento da taxa são eles a º1 via da Carteira de Identidade Nacional, pessoas que são inscritas no Cad Único devem apresentar folha resumo para comprovação e nos casos de Furto ou roubo apresentar Boletim de Ocorrência com validade de 60 dias, caso não atenda os requisitos para isenção é necessário pagar uma taxa no valor de  R$105,59 é de suma importância comparecer a unidade com 15 minutos de antecedência do horário agendado."
+            },
+			{
+				"input": "documentação CIN, documentos obrigatórios para emissão da Carteira de Identiadade Nacional",
+				"output": "CPF; certidão de nascimento ou casamento. \nCeridão ou Declaração de União Estável não é aceita. ​​​​​​"
+			},
+            {
+                "input": "Não tenho CPF mesmo assim posso  A carteira de identidade Nacional (CIN), Sem inscrição no cadastro de pessoas fisicas consigo  identidade ou RG?",
+                "output": "Para emissão da Carteira de Identidade Nacional (CIN), o CPF é um dos documentos necessários. Caso não possua CPF, poderá  o documento de identidade normalmente, será gerado posteriormente o Cadastro do CPF junto a Receita federal."
+            },
+            {
+                "input": "Estou tentando agendar a emissão do meu RG porém nunca tem vaga",
+                "output": "A Secretaria de Estado de Planejamento e Gestão de Minas Gerais (Seplag-MG) informa que devido à emissão da nova Carteira de Identidade Nacional, houve um aumento da demanda de agendamentos para atendimentos nas Unidades de Atendimento Integrado (UAIs).\nOs atendimentos para emissão do documento também são realizados nos mais de 400 Postos de Identificação da Polícia Civil.\nA Seplag-MG, em parceria com a Polícia Civil, está no processo de treinamento de novos atendentes para ampliar a capacidade de emissão da CIN nas UAIs nos próximos meses.  O Decreto Federal prevê que o modelo de identidade expedido nos padrões anteriores ao novo formato terá validade até 23 de fevereiro de 2032. Portanto, não é necessário a troca imediata da carteira pelo novo modelo.\nEm casos de urgência comprovada, o usuário deverá encaminhar um \"Fale Conosco\", disponível neste link https://www.mg.gov.br/pagina/fale-conosco, com a documentação que comprove a urgência e informando o motivo do agendamento."
+            },
+            {
+                "input": "Como faço para  a carteira de Identidade Nacional (CIN) de pessoa que está acamada",
+                "output": "Para obter orientações sobre emissão da Carteira de Identidade Nacional (CIN) no caso de pessoas acamadas  entre em contato com a Divisão de Identificação da Polícia Civil pelos\nTelefones: (31)3330-1838 /"
+            },
+            {
+                "input": "Sou de Mariana minas Gerais, onde posso fazer minha carteira de identidade Nacional",
+                "output": "Caso resida em localidades que não possui Unidade de Atendimento Integrado UAI poderá verificar em um posto de identificação do seu municipio como delegacia de policia, camara municipal ou a prefeitura para verificar o procedimento para emissão da Carteira de Identidde Nacional ( CIN)"
+            },
+            {
+                "input": "não tenho internet , existe outra forma de agendamento para emissão da carteira de Identidade Nacional",
+                "output": "O cidadão que não consegue agendar de forma on line pelo aplicativo MG CIDADÃO ou portal do cidadão ww.mg.gov.br poderá comparecer pessoalmente nas Uais e realizar o agendamento nos totens de auto atendimento."
+            },
+            {
+                "input": "Para  a CIN preciso de levar foto, tenho que levar foto para fazer RG,",
+                "output": "Você deve tirar a fotografia no momento do atendimento. Não é mais necessário levar fotos 3X4. Apenas serão aceitas fotos previamente tiradas de crianças que não possam posar sem amparo de terceiros. Nesse caso, o FUNDO da foto deve ser BRANCO."
+            },
+            {
+                "input": "Precisa pagar para  a Carteira de Identidade Nacional, CIN, RG",
+                "output": "Em caso de Perda ou extravio da CIN, RG Nacional no período de validade do documento a\ntaxa é de: R$ 105,59"
+            },
+            {
+                "input": "Não tenho a Certidão original, pode levar a cópia, xerox pra fazer o RG",
+                "output": "A Certidão a ser apresentada deve ser original ou certidão digital ou cópia autenticada em cartório. A certidão deverá estar legível, sem rasgos, emendas ou rasuras que comprometam a originalidade do documento. A 2ª via da certidão pode ser emitida pelo site cidadao.mg.gov.br ou pelo aplicativo MG APP Cidadão disponível nas lojas de\naplicativos."
+            },
+            {
+                "input": "Minha Carteira de Identidade chegou com erro de digitação, escrito errado, erro, dad",
+                "output": "Orientamos que compareça na Unidade onde emitiu o documento para  a correção no\nprazo de até 60 dias contatos a partir da data de emissão."
+            },
+            {
+                "input": "Qual a validade da Carteira de Identidade Nacional, CIN, RG Nacional",
+                "output": "A Carteira de Identidade Nacional terá validade: De cinco anos para pessoas com idade de zero a 11 anos. De dez anos, para a faixa etária de 12 anos completos a 59 anos.\nIndeterminada para pessoas com idade a partir de 60 anos."
+            },
+            {
+                "input": "Com quantos anos posso tirar o RG?",
+                "output": "Não há idade mínima para  o documento."
+            },
+            {
+                "input": "É necessário ter CPF para fazer a CIN?",
+                "output": "É obrigatório o CPF para a emissão da CIN, caso seja a primeira via será gerado o número\nno momento do atendimento."
+            },
+            {
+                "input": "É possível  RG, CIN, Carteira de Identidade, Declaração de pessoa falecida?",
+                "output": "Informamos que para  a Declaração da identidade de pessoa falecida , encaminhe o e-mail para: expediente.identificacao@pcivil.mg.gov.br com anexo da certidão de óbito e documento de identificação do parente de primeiro grau que está solicitando. Poderá maiores informações através do telefone  (31)3330-1847"
+            },
+            {
+                "input": "É possível incluir na Carteira de Identidade Nacional que sou doador",
+                "output": "A informação é possível incluir na versão digital da Carteira de Identidade Nacional desde que o requerente solicite a inclusão no momento do atendimento."
+            },
+            {
+                "input": "É possível  a carteira de identidade de forma virtual - distância - on line - estando em ou",
+                "output": "O serviço é realizado somente de forma presencial, devido a necessidade de coleta de\ndigitais e fotografia no momento do atendimento."
+            },
+            {
+                "input": "Preciso atualizar minha certidão de nascimento para fazer a Carteira de Identidade?",
+                "output": "Não precisa. A certidão precisa ser original e estar legível e em bom estado de\nconservação."
+            },
+            {
+                "input": "Como  2ª via da certidão de Certidão - casamento - nascimento - certidão divórcio",
+                "output": "A emissão de 2ª via da Certidão pode ser realizada presencialmente direto no cartório de Registro Civil das Pessoas Naturais onde o ato foi lavrado ou  eletronicamente, por meio de disponibilização na Central de Registro Civil de Minas Gerais através do site https://registrocivilminas.org.br/e-civil/pages/principal.jsf"
+            },
+            {
+                "input": "Consigo fazer a CIN apresentando apenas a Certidão Digital?",
+                "output": "É possível sim. Certidão Digital é uma dos formatos da certidão oficial."
+            },
+            {
+                "input": "Qual o prazo de validade da Certidão Digital?",
+                "output": "A certidão em formato digital não tem data de validade, porém dever ser realizado a\nvalidação da mesma no momento de atendimento"
+            },
+            {
+                "input": "Agendamento de Urgência RG, CIN, Identiadade",
+                "output": "Em caso de urgência comprovada, poderá encaminhar um \"Fale Conosco\", através do https://www.mg.gov.br/pagina/fale-conosco, relatando o motivo da urgência, juntamente com a documentação que comprove a urgência, dados pessoais e Unidade\npara o possível agendamento."
+            },
+            {
+                "input": "Qual o prazo de validade da CIN?",
+                "output": "A Carteira de Identidade Nacional terá validade: De cinco anos para pessoas com idade de zero a 11 anos. De dez anos, para a faixa etária de 12 anos completos a 59 anos.Indeterminada para pessoas com idade a partir de 60 anos."
+            },
+            {
+                "input": "Como faço para ter acesso ao código de rastreio do RG - identidade - CIN?",
+                "output": "O código de rastreio é encaminhado para o e-mail cadastrado no ato do atendimento para acompanhamento do trajeto do documento. Para rastrear a entrega da sua identidade, você pode acessar o site cidadao.mg.gov.brAbre em uma nova janela externa., fazer login com CPF e senha GOV e selecionar a opção “Consultar Situação da Emissão de Carteira de Identidade” disponível no menu “Carteira de Identidade” do aplicativo MG app. Lá você poderá acompanhar o status do processo de emissão da sua identidade."
+            },
+            {
+                "input": "Gostaria de saber se preciso levar certidão pra fazer RG?",
+                "output": "Sim, é necessário apresentar Certidão original dou cópia autenticada de acordo com o estado civil. Para informações sobre Certidão Digital acesse https://recivil.com.br/"
+            },
+            {
+                "input": "Recém nascido tira as digitais para emissão do RG?",
+                "output": "É necessário coleta das Digital do Recém Nascido de forma off line"
+            },
+            {
+                "input": "Quero pegar - retirar minha identidade já emitida?",
+                "output": "Orientamos que faça o restreio no site cidadão.mg.gov.br ou MGAPP. Não é mais\nnecessário agendamento para retirar o documento já emitido."
+            },
+            {
+                "input": "Precisa agendar para buscar a identidade já emitida?",
+                "output": "Não é mais necessário agendamento para retirar o documento já emitido."
+            },
+            {
+                "input": "Quais documentos posso incluir no meu RG - CIN - Identidade?",
+                "output": "Podem ser incluídos na versão digital do RG Nacional os seguintes documentos: Carteira Nacional de Habilitação Título de EleitorIdentidade ProfissionalCertificado Militar Cartão Nacional de Saúde (CNS)Carteira de Trabalho (CTPS)PIS / PASEP/ NISIncluir se quer ser Doador de Órgãos Portador de Necessidades Especiais (PNE) apresentando o Laudo médico preenchido com o CID, assinado e carimbado por seu médico. Fator RH (tipo sanguíneo), traga a via original do resultado de exame laboratorial de tipagem sanguínea, assinado."
+            },
+            {
+                "input": "Meu RG ficou pronto, esta à disposição para retirada na UAI Praça Sete. Meu parente de primeiro grau pode buscar ou pegar em meu lugar?",
+                "output": "Para um terceiro receber sua Carteira de Identidade, uma autorização do requerente deverá ser entregue por escrito para arquivamento no Posto de Identificação.  Em todos os casos que o terceiro retirar a Carteira de Identidade de outra pessoa deverá ser apresentado documento oficial com foto. Quando a carteira de identidade for emitida para menores de 16 (dezesseis) anos, fica autorizada a entrega do documento aos pais ou responsável legal, mediante os seguintes requisitos:a) apresentar documento oficial com foto, caso a retirada seja feita pelos pais;b) apresentar documento oficial com foto e o Termo de Guarda original e em vigor, caso a retirada seja feita pelo responsável legal;c) apresentar Autorização por escrito com reconhecimento de firma de um dos pais ou representante legal do menor, caso a retirada seja feita por terceiro;d) apresentar ofício do diretor da Instituição autorizando a retirada e cópia autenticada da sua Carteira de Identidade, nas situações em que os menores estiverem internados em orfanatos ou instituições do gênero."
+            },
+            {
+                "input": "Os documentos que pedi para serem inseridos no RG não vieram no documento impr",
+                "output": "Informamos que a documentação adicional é possível visualizar somente na versão digital da Carteira de Identidade Nacional que pode ser acessado através do QR CODE impresso\nno documento"
+            },
+            {
+                "input": "Sei meu Tipo Sanguineo , posso apenas informar ao atendente para incluir na Carteira",
+                "output": "Neste caso , para incluir na Carteira de Identidade Nacional , o Tipo Sanguineo do\nrequerente, deverá levar um Laudo Médico , comprovando o Tipo sanguineo da pessoa, com assinatura/CRM do médico que atendeu."
+            },
+            {
+                "input": "Qual é a pendência em análise do meu RG poderia me dá mais informações?",
+                "output": "Orientamos a registrar sua solicitação no canal Fale Conosco para que o setor responsável\nrealize a consulta no sistema e responda de forma satisfatória."
+            },
+            {
+                "input": "Agendar para retirar - pegar o RG - CIN - Carteira de Identidade já emitido",
+                "output": "Orientamos que faça o rastreio no site cidadão.mg.gov.br ou MGAPP. Não é mais\nnecessário agendamento para retirar o documento já emitido."
+            },
+            {
+                "input": "Alterar o nome no RG - CIN - Carteira de Identidade após casamento",
+                "output": "Para alterar o nome no RG - CIN - Carteira de Identidade é necessário agendamento no site cidadao.mg.gov.br para emitir uma nova via do documento com os dados alterados"
+            },
+            {
+                "input": "Emitir Certidão de nascimento - casamento - óbito digital",
+                "output": "A solicitação pode ser realizada no site https://registrocivilminas.org.br/ ou através do Aplicativo MGAPP ou site cidadao.mg.gov.br logando com seu acesso Gov.br"
+            },
+            {
+                "input": "Como atualizar os dados no meu CPF",
+                "output": "A atualização pode ser feita presencialmente em uma Unidade da Receita Federal apresentando documento de identificação ou através do site\nhttps://servicos.receita.fazenda.gov.br/servicos/cpf/alterar/default.asp"
+            },
+            {
+                "input": "Como faço para corrigir um erro no meu documento de identidade?",
+                "output": "Orientamos que compareça na Unidade onde emitiu o documento para  a correção no\nprazo de até 60 dias contatos a partir da data de emissão."
+            },
+            {
+                "input": "Como posso consultar a situação do meu documento pela internet",
+                "output": "Na funcionalidade \"Consultar Situação da Emissão de Carteira de Identidade\" disponível no menu \"Carteira de Identidade\" do aplicativo MG app ou site cidadao.mg.gov.br você consegue acompanhar o status do processo de emissão da sua Carteira de Identidade Nacional , ao realizar a consulta do rastreio, caso obtenha a informação de que o documento já está disponivel para retirada na Unidade onde emitiu o documento, poderá comparecer dentro do horário de funcionamento não é necessário realizar o agendamento."
+            },
+            {
+                "input": "Como tirar documento para menor de idade?",
+                "output": "No caso de menor de 16 anos o agendamento poderá ser realizado no CPF e senha GOV do pai, mãe ou responsável legal, O agendamento é realizado pelo aplicativo MG CIDADÃO ou portal do cidadão através do link: https://www.mg.gov.br/pagina/como- agendar-carteira-de-identidade-nacional\nClique no botão abaixo \"Agendar Atendimento\", que irá redirecionar para o portal Cidadão MG;\nClique em \"Entrar com o GOV\" (Uma página externa do Governo Federal será aberta em seu navegador);\nDigite o CPF e clique em “Continuar”;\nCaso ainda não possua essa conta, será necessário escolher uma opção de cadastro e seguir os passos indicados;\nApós finalizar o acesso por meio do GOV\", faça o agendamento, preenchendo os dados solicitados."
+            },
+            {
+                "input": "Como verifico se meu RG - CIN - Carteira de Identidade está pronto para retirar?",
+                "output": "Orientamos que faça o rastreio no site cidadão.mg.gov.br ou MGAPP. Não é mais\nnecessário agendamento para retirar o documento já emitido."
+            },
+            {
+                "input": "Dá pra tirar RG e CPF no mesmo dia?",
+                "output": "Para emissão da Carteira de Identidade Nacional (CIN), o CPF é um dos documentos necessários. Caso não possua CPF, poderá  emitir o documento de identidade normalmente, será gerado posteriormente o Cadastro do CPF junto a Receita federal."
+            },
+            {
+                "input": "Dá pra tirar o CPF on line?",
+                "output": "Sim, orientamos que acesse o site da Receita Federal para maiores informações:\nhttps://www.gov.br/receitafederal/pt-br"
+            },
+            {
+                "input": "Precisa agendar para retirar - emitir a Carteira de Identidade - CIN - RG?",
+                "output": "Para  a Carteira de Identidade Nacional ( CIN), basta agendar o atendimento no portal do cidadão através do link: https://www.mg.gov.br/pagina/como-agendar-carteira-de- identidade-nacional\nClique no botão abaixo \"Agendar Atendimento\", que irá redirecionar para o portal Cidadão MG;\nClique em \"Entrar com o GOV (Uma página externa do Governo Federal será aberta em seu navegador);\nDigite o CPF e clique em “Continuar”;\nCaso ainda não possua essa conta, será necessário escolher uma opção de cadastro e seguir os passos indicados;\nApós finalizar o acesso, faça o agendamento, preenchendo os dados solicitados. Para visualizar a documentação necessária para emissão da Carteira de Identidade Nacional acesse: https://www.mg.gov.br/servico/-carteira-de-identidade-nacional\nPara menor de 16 anos, o agendamento poderá ser realizado através do acesso gov.br dos pais ou responsável legal. Esclarecemos que existem casos de gratuidade para emissão da CIN  são eles a º1 via do documento, pessoas que são inscritas no Cad Único devem apresentar folha resumo para comprovação e nos casos de Furto ou Roubo apresentar Boletim de Ocorrência com validade de 60 dias, é de suma importância comparecer a unidade com 15 minutos de antecedência do horário agendado."
+            },
+            {
+                "input": "Preciso de Identidade o mais rápido possível",
+                "output": "Em caso de urgência comprovada, poderá encaminhar um \"Fale Conosco\", através do https://www.mg.gov.br/pagina/fale-conosco, relatando o motivo da urgência, juntamente com a documentação que comprove a urgência, dados pessoais e Unidade\npara o possível agendamento."
+            },
+            {
+                "input": "Preciso de uma Segunda via do meu Certificado de Reservista",
+                "output": "Para emitir o Certificado de Reservista, é necessário realizar o Alistamento Militar, nos municípios de Betim e Leopoldina o serviço é realizado na UAI mediante agendamento prévio no site https://www.mg.gov.br/agendamento_servico/1o-alistamento-militar , para outros municípios deverá procurar a Junta Muilitar do município de residência."
+            },
+            {
+                "input": "Preciso da Certidão de Nascimento do meu filho",
+                "output": "A emissão de 2ª via da Certidão pode ser realizada presencialmente direto no cartório de Registro Civil das Pessoas Naturais onde o ato foi lavrado ou  eletronicamente, por meio de disponibilização na Central de Registro Civil de Minas Gerais através do site https://registrocivilminas.org.br/e-civil/pages/principal.jsf"
+            },
+            {
+                "input": "Qual a diferença do CPF pra CIN?",
+                "output": "O CPF (Cadastro de Pessoas Físicas) é um documento que identifica o cidadão perante a Receita Federal, a CIN (Carteira de Identidade Nacional) é o documento de identificação que pode ser emitido em todo o estado de Minas Gerais."
+            },
+            {
+                "input": "Custo - valor - pagamento para atualizar a foto do documento de identidade?",
+                "output": "A fotografia é tirada de forma gratuita no momento do atendimento para emissão da\nCarteira de Identidade"
+            },
+            {
+                "input": "Tem que agendar pra tirar documento ou é só chegar?",
+                "output": "É necessário agendar o atendimento no portal do cidadão através do link: https://www.mg.gov.br/pagina/como-agendar-carteira-de-identidade-nacional Clique no botão abaixo \"Agendar Atendimento\", que irá redirecionar para o portal Cidadão MG;\nClique em \"Entrar com o GOV (Uma página externa do Governo Federal será aberta em seu navegador);\nDigite o CPF e clique em “Continuar”;\nCaso ainda não possua essa conta, será necessário escolher uma opção de cadastro e seguir os passos indicados;\nApós finalizar o acesso, faça o agendamento, preenchendo os dados solicitados. Para visualizar a documentação necessária para emissão da Carteira de Identidade Nacional acesse: https://www.mg.gov.br/servico/-carteira-de-identidade-nacional\nPara menor de 16 anos, o agendamento poderá ser realizado através do acesso gov.br dos pais ou responsável legal. Esclarecemos que existem casos de gratuidade para emissão da CIN  são eles a º1 via do documento, pessoas que são inscritas no Cad Único devem apresentar folha resumo para comprovação e nos casos de Furto ou Roubo apresentar Boletim de Ocorrência com validade de 60 dias, é de suma importância comparecer a unidade com 15 minutos de antecedência do horário agendado."
+            },
+            {
+                "input": "Tem como agendar a retirada de documentos pelo Whats?",
+                "output": "Não, o agendamento deve ser realizado pelo site cidadao.mg.gov.br ou Aplicativo MGAPP, se preferir poderá comparecer em das Unidades UAI e agendar o atendimento utilizando os totens de autoatendimento disponíveis nas Unidades."
+            },
+            {
+                "input": "Registrar criança",
+                "output": "Orientamos que compareça no Cartório de Registro Civil mais próximo de sua residência munido de documento de identificação e a Declaração de Nascido vivo que foi fornecido\npela Maternidade onde nasceu a criança."
+            },
+            {
+                "input": "Quantos dias leva para emitir uma identidade?",
+                "output": "O prazo para entrega da identidade é de 15 dias úteis, podendo ser prorrogado caso seja necessário regularizar alguma pendência. Na funcionalidade \"Consultar Situação da Emissão de Carteira de Identidade\" disponível no menu \"Carteira de Identidade\" do aplicativo MG app ou site cidadao.mg.gov.br você consegue acompanhar o status do processo de emissão da sua Carteira de Identidade Nacional."
+            },
+            {
+                "input": "Qual o valor Segunda via da identidade?",
+                "output": "Em caso de Perda ou extravio da CIN, RG Nacional no período de validade do documento a taxa é de: R$ 105,59. Lembrando que a Primeira Via da Carteira de Identidade Nacional é\ngratuita."
+            },
+            {
+                "input": "Qual dia da semana posso retirar documento?",
+                "output": "Para retirar documento já emtido, basta comparecer na Unidade onde realizou a emissão\nde segunda a sexta feira."
+            },
+            {
+                "input": "Qual custo - valor pra fazer a Primeira via do RG - CIN - Carteira de Identidade",
+                "output": "A Primeira via do documento é emitida de forma garatuita, realize o agendamento através\ndo site cidadao.mg.gov.br ou Aplicativo MGAPP"
+            }
+        ]
+    }
+}

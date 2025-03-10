@@ -1,0 +1,842 @@
+{
+    "identidade": {
+        "entries": [
+            {
+                "input": "2ª via RG e outras vias de RG,  segunda via de identidade, terceira, segunda  via da carteira de identidade nacional, perdi o RG e quero a segunda via , perdi a identidade, roubaram a identidade ou rg, fui roubado e quero segunva via da identidade, assaltado e preciso da segunda via da identidade ou rg , levaram minha identidade e quero segunda via, levou identidade e preciso de nova via, onde fazer, como faço, onde agendo, expedir, novo rg, nova identidade, meu, minha nova identidade, preciso, estou procurando, fiz, registrei B.O, B.O., boletim de ocorrência terei que pagar para  a segunda via,posso fazer sozinho a identidade",
+                "output": "Para  a Carteira de identidade nacional (CIN) segunda via, basta agendar o atendimento no site cidadão.mg.gov.br e faça login com CPF e senha GOV em seguida escolha a opção : carteira de identidade, agendar emissão da carteira de identidade, carteira de identidade nacional, irá direcionar para uma pagina com a foto do novo RG , sendo necessário responder a pergunta Você já emitiu a sua Carteira de Identidade Nacional ? irá marcar sim ou não de acordo com sua necessidade, após responder a pergunta deverá realizar o agendamento preenchendo o formulário com município data e horário que deseja atendimento e logo em seguida confirmar o agendamento.\n\nPara menor de 16 anos, o agendamento poderá ser realizado através do acesso gov.br dos pais ou responsável legal e devem estar acompanhado para emitir o documento Esclarecemos que existem casos de isenção do pagamento da taxa são eles a º1 via do documento, pessoas que são inscritas no Cad Único, apresentar folha resumo para comprovação e nos casos de perda ou roubo apresentar Boletim de Ocorrência com validade de 60 dias, caso não atenda os requisitos para isenção é necessário pagar uma taxa no valor de R$105,59 é de suma importância comparecer a unidade com 15 minutos de antecedência do horário agendado.\n"
+            },
+            {
+                "input": "Segunda via tem que pagar, pagamento da taxa, valor identidade, quanto custa, preço, Tenho gratuidade na emissão do CNI, carteira de identidade, RG Nacional, isenção, não pagar, cad unico, papel do cras, Quanto  custa o valor da Identidade.",
+                "output": "A carteira de Identidade Nacional é Gratuito nos casos de emissão de primeira via, hipossuficiência( CAD UNICO) apresentar folha resumo do cadastro unico, nos casos de furto/roubo do documento é necessário apresentar Boletim de Ocorrência dentro do prazo máximo de 60 dias da data do fato - consulte a Portaria nº 004/IIMG`/2022. Nas situações de Perda ou extravio da Carteira de Identidade Nacional no período de validade do documento: R$ 105,59. Para emitir o Documento de Arrecadação Estadual (DAE), acesse: https://daeonline1.fazenda.mg.gov.br/daeonline/executeEmissaoDocumentoArrecadacaoPoliciaCivil.action"
+            },
+            {
+                "input": "Fiz RG ou identidade e gostaria de verificar o andamento do pedido, Gostaria de acompanhar a entrega do meu RG,identidade, Gostaria de rastrear a entrega do meu RG,identidade",
+                "output": "O prazo para entrega da identidade é de 15 dias úteis, podendo ser prorrogado caso seja necessário regularizar alguma pendência. Na funcionalidade \"Consultar Situação da Emissão de Carteira de Identidade\" disponível no menu \"Carteira de Identidade\" do aplicativo MG app ou site cidadao.mg.gov.br você consegue acompanhar o status do processo de emissão da sua Carteira de Identidade Nacional."
+            },
+            {
+                "input": "Consultar agendamento, cancelar agendamento, pesquisar, pesquiso, informação, alterar data do agendamento",
+                "output": "Para a realização de Consulta e Cancelamento de Agendamento através do Portal do Cidadão, tenha em mãos o número do Protocolo de Agendamento e seu CPF, acesse o site: www.mg.gov.br Siga o passo a passo acessando:  \"Agendamento de Serviços\", \"Consultar/Recuperar Protocolo\". Caso tenha perdido o número do protocolo informe seu CPF/CNPJ e o enviaremos para seu e-mail.  Se você desejar cancelar o agendamento, acesse-o e faça o cancelamento.\nPara consulta e cancelamento de Agendamento pelo Aplicativo MG APP,\nAcesse: cidadao.mg.gov.br\nFaça login com o CPF e senha do GOV\"\nEscolha a opção meus agendamentos\nClique em consultar agendamento e terá acesso a confirmação do agendamento."
+            },
+            {
+                "input": "Agendamento em caso de menor de 16 anos para RG - identidade -documentos, quais, documentação",
+                "output": "No caso de menor de 16 anos o agendamento poderá ser realizado no CPF e senha GOV do pai, mãe ou responsável legal, O agendamento é realizado pelo aplicativo MG CIDADÃO ou portal do cidadão através do link: https://www.mg.gov.br/pagina/como-agendar-carteira-de-identidade-nacional\n\nClique no botão abaixo \"Agendar Atendimento\", que irá redirecionar para o portal Cidadão MG;\nClique em \"Entrar com o GOV\" (Uma página externa do Governo Federal será aberta em seu navegador);\nDigite o CPF e clique em “Continuar”;\nCaso ainda não possua essa conta, será necessário escolher uma opção de cadastro e seguir os passos indicados;\nApós finalizar o acesso por meio do GOV\", faça o agendamento, preenchendo os dados solicitados.\n\n\nEsclarecemos que existem casos de isenção do pagamento da taxa são eles a º1 via do documento, pessoas que são inscritas no Cad Único, aprsentar folha resumo para comprovação e nos casos de perda ou roubo aprensentar Boletim de Ocorrência com validade de 60 dias, caso não atenda os requisitos para isenção é necessário pagar uma taxa no valor de  R$105,59 é de suma importancia comparecer a unidade com 15 minutos de antecedencia do horário agendado."
+            },
+            {
+                "input": "Restituição de taxa - pedir - reembolso, devolução, valor pago, ressarcimento",
+                "output": "Para requerer a restituição do pagamento da DAE, o contribuinte deverá: \nacessar o site da Secretaria Estadual da Fazenda através do link: https://www2.fazenda.mg.gov.br/sol/ctrl/SOL/SERVWEB/CADASTRO_002?ACAO=VISUALIZAR\n*Caso tenha alguma dúvida, entre em contato com o fale conosco da SEF/MG pelo site: http://www.fazenda.mg.gov.br/atendimento/fale-conosco/\n"
+            },
+            {
+                "input": "Entrega de RG -  buscar minha identidade,chegou meu cin, minha identidade, Gostaria de receber meu rg, entrega, prazo, quem pode pegar,  Como eu pego meu documento ? Como eu busco minha identidade ? Como eu pego meu documento ? andamento da identidade, como rastreiar meu rg",
+                "output": "O prazo para entrega da identidade é de 15 dias úteis, podendo ser prorrogado caso seja necessário regularizar alguma pendência. Na funcionalidade \"Consultar Situação da Emissão de Carteira de Identidade\" disponível no menu \"Carteira de Identidade\" do aplicativo MG app ou site cidadao.mg.gov.br você consegue acompanhar o status do processo de emissão da sua Carteira de Identidade Nacional , ao realizar a consulta do rastreio, caso obtenha a informação de que o documento já está disponivel para retirada na Unidade onde emitiu o documento, poderá comparecer dentro do horário de funcionamento não é necessário realizar o agendamento."
+            },
+            {
+                "input": "Sou PCD (Pessoa com Deficiência), gostaria de saber se consigo colocar o símbolo de inclusão PCD na minha carteira de identidade",
+                "output": "[15:24] Margarida da Cruz Raimundo de Souza\nPara  a Carteira de Identidade Nacional ( CIN) com a informação da deficiência/ condição de saúde é necessário agendamento prévio feito pelo portal www.mg.gov.br ou APP MG CIDADÃO, acesse o link https://www.mg.gov.br/pagina/como-agendar-carteira-de-identidade-nacional  sendo necessário apresentar os seguintes documentos:\n\nCertidão de acordo com estado civil( se solteiro  certidão de nascimento/ se casado a certidão de casamento/ divorciado certidão de casamento com averbação do divorcio).\n\nLaudo/relatório/exames comprobatório deficiência/ condição de saúde.\n\nA Foto é tirada no ato da emissão, existem casos de isenção do pagamento da taxa são eles a º1 via do documento, pessoas que são inscritas no Cad Único devem apresentar folha resumo para comprovação e nos casos de Furto ou roubo apresentar Boletim de Ocorrência com validade de 60 dias, caso não atenda os requisitos para isenção é necessário pagar uma taxa no valor de  R$105,59 é de suma importância comparecer a unidade com 15 minutos de antecedência do horário agendado."
+            },
+            {
+                "input": "Não tenho CPF mesmo assim posso  A carteira de identidade Nacional (CIN), Sem inscrição no cadastro de pessoas fisicas consigo  identidade ou RG?",
+                "output": "Para emissão da Carteira de Identidade Nacional (CIN), o CPF é um dos documentos necessários. Caso não possua CPF, poderá emitir o documento de identidade normalmente, será gerado posteriormente o Cadastro do CPF junto a Receita federal."
+            },
+            {
+                "input": "Estou tentando agendar a emissão do meu RG porém nunca tem vaga",
+                "output": "Informamos que devido à emissão da nova Carteira de Identidade Nacional, houve um aumento considerável da demanda de agendamentos para atendimentos nas Unidades de Atendimento Integrado (UAIs).\nO Decreto Federal prevê que o modelo de identidade expedido nos padrões anteriores ao novo formato terá validade até 23 de fevereiro de 2032. Portanto, não é necessário a troca imediata da carteira pelo novo modelo\nAs vagas para agendamento são liberadas todos os dias, a partir de 7h da manhã, são abertas mais de 5.800 vagas para agendamento nas UAI's, porém mediante a grande procura o esgotamento ocorre rapidamente.\nAlertamos também quanto as desistências, em que o cidadão que não possa comparecer realize o cancelamento, essas vagas retornam para o site e ficam disponíveis para que outra pessoa possa agendar.\nEm caso de urgência comprovada, poderá encaminhar um \"Fale Conosco\", através do link: https://www.mg.gov.br/pagina/fale-conosco, relatando o motivo da urgência, juntamente com a documentação que comprove a urgência, dados pessoais e Unidade para o possível agendamento."
+            },
+            {
+                "input": "Sou de Mariana minas Gerais, onde posso fazer minha carteira de identidade Nacional",
+                "output": "Caso resida em localidades que não possui Unidade de Atendimento Integrado UAI poderá verificar em um posto de identificação do seu municipio como delegacia de policia, camara municipal ou a prefeitura para verificar o procedimento para emissão da Carteira de Identidde Nacional ( CIN)"
+            },
+            {
+                "input": "não tenho internet , existe outra forma de agendamento para emissão da carteira de Identidade Nacional",
+                "output": "O cidadão que não consegue agendar de forma on line pelo aplicativo MG CIDADÃO ou portal do cidadão ww.mg.gov.br poderá comparecer pessoalmente nas Uais e realizar o agendamento nos totens de auto atendimento."
+            },
+            {
+                "input": "Para  a CIN preciso de levar foto, tenho que levar foto para fazer RG, ",
+                "output": "Você deve tirar a fotografia no momento do atendimento. Não é mais necessário levar fotos 3X4. Apenas serão aceitas fotos previamente tiradas de crianças que não possam posar sem amparo de terceiros. Nesse caso, o FUNDO da foto deve ser BRANCO."
+            },
+            {
+                "input": "Precisa para pagar para  a Carteira de Identidade Nacional, CIN, RG",
+                "output": "Em caso de Perda ou extravio da CIN, RG Nacional no período de validade do documento a taxa é de: R$ 105,59"
+            },
+            {
+                "input": "Não tenho a Certidão original, pode levar a cópia, xerox pra fazer o RG, posso fazer com uma certidão antiga, posso fazer indentidade sem certidão, tenhor que levar certidão para emitir a cin",
+                "output": "A Certidão a ser apresentada deve ser original ou certidão digital ou cópia autenticada em cartório. A certidão deverá estar legível, sem rasgos, emendas ou rasuras que comprometam a originalidade do documento. A 2ª via da certidão pode ser emitida pelo site cidadao.mg.gov.br ou pelo aplicativo MG APP Cidadão disponível nas lojas de aplicativos. "
+            },
+            {
+                "input": "Minha Carteira de Identidade chegou com erro de digitação, escrito errado, erro, dados divergentes",
+                "output": "Orientamos que compareça na Unidade onde emitiu o documento para  a correção no prazo de até 60 dias contatos a partir da data de emissão."
+            },
+            {
+                "input": "Qual a validade da Carteira de Identidade Nacional, CIN, RG Nacional",
+                "output": "A Carteira de Identidade Nacional terá validade: De cinco anos para pessoas com idade de zero a 11 anos. De dez anos, para a faixa etária de 12 anos completos a 59 anos. Indeterminada para pessoas com idade a partir de 60 anos."
+            },
+            {
+                "input": "Com quantos anos posso tirar o RG?",
+                "output": "Não há idade mínima para emitir o documento. "
+            },
+            {
+                "input": "É necessário ter CPF para fazer a CIN?",
+                "output": "É necessário apresentar o CPF , mas caso não tenha inscrição no Cadastro de Pessoa fisica poderá emitir a CIN que será gerado um número junto a receita federal."
+            },
+            {
+                "input": "É possível  RG, CIN, Carteira de Identidade, Declaração de pessoa falecida? ",
+                "output": "Informamos que para  a Declaração da identidade de pessoa falecida , encaminhe o e-mail para: expediente.identificacao@pcivil.mg.gov.br com anexo da certidão de óbito e documento de identificação do parente de primeiro grau que está solicitando. Poderá  maiores informações através do telefone  (31)3330-1847"
+            },
+            {
+                "input": "É possível incluir na Carteira de Identidade Nacional que sou doador de órgãos?",
+                "output": "A informação é possível incluir na versão digital da Carteira de Identidade Nacional desde que o requerente solicite. "
+            },
+            {
+                "input": "É possível  a carteira de identidade de forma virtual - distância - on line - estando em outro país",
+                "output": "O serviço é realizado somente de forma presencial, devido a necessidade de coleta de digitais e fotografia no momento do atendimento."
+            },
+            {
+                "input": "Preciso atualizar minha certidão de nascimento para fazer a Carteira de Identidade?",
+                "output": "Não precisa. A certidão precisa ser original e estar legível e em bom estado de conservação."
+            },
+            {
+                "input": "Como emitir 2ª via da certidão de Certidão - casamento - nascimento - certidão divórcio",
+                "output": "A emissão de 2ª via da Certdão pode ser realizada presencialmente direto no cartório de Registro Civil das Pessoas Naturais onde o ato foi lavrado ou  eletronicamente, por meio de disponibilização na Central de Registro Civil de Minas Gerais através do site https://registrocivilminas.org.br/e-civil/pages/principal.jsf  ou se deseja solicitar de forma on line acesse cidadao.mg.gov.br faça login com CPF e senha GOV escolha a opção certidão de nascimento/casamento/ óbito."
+            },
+            {
+                "input": "Consigo fazer a CIN apresentando apenas a Certidão Digital?",
+                "output": "É possível sim. Certidão Digital é uma dos formatos da certidão oficial."
+            },
+            {
+                "input": "Qual o prazo de validade da Certidão Digital?",
+                "output": "A certidão em formato digital não tem data de validade, porém dever ser realizado a validação da mesma no momento de atendimento   "
+            },
+            {
+                "input": "Agendamento de Urgência RG, CIN, Identiadade",
+                "output": "Em caso de urgência comprovada, poderá encaminhar um \"Fale Conosco\", através do  https://www.mg.gov.br/pagina/fale-conosco, relatando o motivo da urgência, juntamente com a documentação que comprove a urgência, dados pessoais e Unidade para o possível agendamento."
+            },
+            {
+                "input": "Qual o prazo de validade da CIN?",
+                "output": "A Carteira de Identidade Nacional terá validade: De cinco anos para pessoas com idade de zero a 11 anos. De dez anos, para a faixa etária de 12 anos completos a 59 anos.Indeterminada para pessoas com idade a partir de 60 anos."
+            },
+            {
+                "input": "com posso ter acesso a Carteira de Identidade Nacional na forma digital, como faço para ter minha CIN ditital, quero o documento na versão digital",
+                "output": "A Carteira de Identidade Nacional (CIN) em formato digital será expedida no mesmo processo de identificação e gerada após a entrega do documento em formato físico.\n\nA versão digital da Carteira de Identidade Nacional pode ser obtida por meio do aplicativo do Governo Federal, “GOV.BR”. No primeiro acesso ao aplicativo, é necessária a conclusão de todas as etapas do cadastro para a obtenção do selo de confiabilidade “prata” ou “ouro”. A CIN digital poderá ser obtida clicando no botão “carteira de documentos’’.\n\nCaso o requerente ainda não tenha uma conta no GOV.BR, veja o passo a passo acessando o link https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br  para realizar o cadastro. Inicialmente, ele será \"Nível Bronze\". Para mudar de nível e chegar ao \"Selo de Confiabilidade Prata\", basta usar o aplicativo GOV.BR do celular ou acessar o site gov.br e clicar em \"Aumentar nível\" logo na tela de \"Início\" do aplicativo e concluir todas as etapas do cadastro. "
+            },
+            {
+                "input": "tenho que levar o recém nascido para emitir a Carteira de Identidade Nacional (CIN)",
+                "output": "É NECESSÁRIO LEVAR O RECÉM NASCIDO PARA COLETA DAS DIGITAIS DE FORMA OFF LINE utilizando tinta para retirada da impressão digital."
+            },
+            {
+                "input": "Quais documentos posso incluir na cin,  preciso saber documentos que podem ser inseridos, gostaria de saber os documentos basicos para emissão da CIN",
+                "output": "Os documentos necessários a emissão é certidão de acordo com estado civil e CPF para obter informações sobre documentos adicionais para inclusão na CIN digital acesse: https://www.mg.gov.br/servico/obter-carteira-de-identidade-nacional"
+            },
+            {
+                "input": "Meu parente pode retirarr o RG, meu marido pode retirar CIN, como pegar o meu rg, quero pegar minha cin",
+                "output": "Para obter orientações sobre retirada da Carteira de Identificação Nacional (CIN) acesse:  https://www.mg.gov.br/agendamento_servico/retirada-de-rg-1a-2a-ou-outras-vias"
+            },
+            {
+                "input": "Porque o número do RG não aparece mais na CIN, a nova carteira de identidade tem número, recebi minha identidade e não tem número",
+                "output": "A Carteira de Identidade Nacional (CIN) é um documento de identificação civil único, destinado a todos os brasileiros. Ela tem formato digital e impresso e está vinculado ao número do CPF, maiores informações acesse : https://www.mg.gov.br/servico/obter-carteira-de-identidade-nacional"
+            }
+        ]
+    },
+    "CNH, DETRAN e CET-MG": {
+        "entries": [
+            {
+                "input": "Solicitar renovação da CNH; taxa de renovação; dae para renovação; não consigo solicitar renovação por causa de serviço em aberto;",
+                "output": "Para solicitar renovação de forma on line acesse: https://www.transito.mg.gov.br/habilitacao/renovacao-da-cnh-1/solicitar-renovacao-da-cnh ou agende o atendimento presencial através do link:  https://www.mg.gov.br/pagina/renovacao-de-cnh  escolha a opção solicitar serviço e clique agendar atendimento presencial"
+            },
+            {
+                "input": "Renovação consultar clinica; não consigo visualizar a clinica; perdi o endereço da clinica;",
+                "output": "Para consultar endereço e tele fone da clinica médica acesse: https://transito.mg.gov.br/habilitacao/renovacao-da-cnh-1/consultar-clinica-do-exame-medico"
+            },
+            {
+                "input": "Solicitar 2via CNH; perdi minha CNH; perdi minha habilitação; tive minha habilitação roubada;",
+                "output": "Para solicitar 2º CNH de forma on line acesse: https://www.transito.mg.gov.br/habilitacao/emissao-de-documentos-de-habilitacao/solicitar-2-via-da-cnh-ppd-ou-acc ou agende o atendimento presencial através do link: https://www.mg.gov.br/agendamento_servico/solicitacao-2a-da-cnh    escolha a opção solicitar serviço e clique agendar atendimento presencial"
+            },
+            {
+                "input": "Solicitar CNH Definitiva; Quero minha definitiva; Minha habilitação definitiva;",
+                "output": "Para solicitar CNH Definitiva de forma on line acesse: https://www.transito.mg.gov.br/habilitacao/emissao-de-documentos-de-habilitacao/solicitar-cnh-definitiva ou agende o atendimento presencial através do link:  https://www.mg.gov.br/agendamento_servico/solicitacao-de-cnh-definitiva"
+            },
+            {
+                "input": "Solicitar adição de categoria; como faço para adicionar categoria ; adição de categoria; incluir categoria;",
+                "output": "Para solicitar adição de Categoria de forma on line acesse: https://www.transito.mg.gov.br/habilitacao/alteracao-de-categoria-da-cnh/adicionar-categoria ou agende o atendimento presencial através do link: https://www.mg.gov.br/agendamento_servico/adicao-de-categoria-cnh-0   clique em solicitar serviço e escolha a opção agendar um atendimento presencial"
+            },
+            {
+                "input": "Solicitar mudança de Categoria; pedir mudança de categoria;",
+                "output": "Para solicitar mudança de categoria de forma on line acesse: https://www.transito.mg.gov.br/habilitacao/alteracao-de-categoria-da-cnh/mudar-para-categoria-c-d-ou-e  ou agende o atendimento presencial através do link: https://www.mg.gov.br/agendamento_servico/mudanca-de-categoria-cnh   clique em solicitar serviço e escolha a opção agendar um atendimento presencial"
+            },
+            {
+                "input": "Solicitar PID (Permissão Internacional para Dirigir) - estrangeiro, obter, requisitar, pedir, CNH estrangeiro",
+                "output": "A PID é solicitada somente de forma on line através do link: https://www.transito.mg.gov.br/habilitacao/habilitacao-internacional/permissao-internacional-para-dirigir-pid"
+            },
+            {
+                "input": "Solicitar alteração de endereço condutor; fazer alteração de endereço; mudei quero atualizar meu endereço;",
+                "output": "Para alterar endereço do condutor de forma on line acesse: https://www.transito.mg.gov.br/habilitacao/alteracao-de-dados/alterar-endereco-do-condutor ou  agende o atendimento presencial através do link:  https://www.mg.gov.br/agendamento_servico/alteracao-de-endereco-do-condutor"
+            },
+            {
+                "input": "Solicitar alteração de dados do condutor- alterar- como faço - preciso trocar - atualizar - nome  - naturalidade",
+                "output": "A alteração de dados da CNH pode ser feita de forma on line via UAI VIRTUAL através do link: https://www.transito.mg.gov.br/habilitacao/alteracao-de-dados/outras-alteracoes-de-dados-da-cnh-1 ou agende o atendimento presencial através do link:  https://www.mg.gov.br/agendamento_servico/alteracao-de-dados-do-condutor"
+            },
+            {
+                "input": "Solicitar inclusão de atividade remunerada; incluir atividade remunerada; quero trabalhar dirigindo o devo fazer;",
+                "output": "Para solicitar inclusão de atividade remunerada acesse o link: https://transito.mg.gov.br/habilitacao/alteracao-de-dados/inclusao-de-atividade-remunerada   ou agende atendimento presencial através do link: https://www.mg.gov.br/agendamento_servico/incluir-atividade-remunerada-condutor"
+            },
+            {
+                "input": "Acompanhar emissão da CNH/PPD, entrega, receber meu documento de habilitação, minha carteira está pronta",
+                "output": "Para acompanhar entrega da CNH acesse o link: https://www.mg.gov.br/agendamento_servico/incluir-atividade-remunerada-condutor"
+            },
+            {
+                "input": "Acompanhar emissão da PID, Não recebi minha Permissão Internacional para Dirigir, posso buscar Licença para dirigir na UAI",
+                "output": "Para acompanhar a emissão da PID acesse o link: https://transito.mg.gov.br/habilitacao/habilitacao-internacional/consultar-situacao-pid"
+            },
+            {
+                "input": "Solicitar rebaixamento de Categoria, reduzir a categoria",
+                "output": "Para obter orientações referente a rebaixamento de categoria acesse o link: https://transito.mg.gov.br/habilitacao/alteracao-de-categoria-da-cnh/rebaixamento-de-categoria-da-cnh-1"
+            },
+            {
+                "input": "Solicitar registro de habilitação estrangeira",
+                "output": "Para obter orientações sobre o serviço de registro de habilitação estrangeira acesse: https://transito.mg.gov.br/habilitacao/habilitacao-internacional/carteira-nacional-de-habilitacao-para-estrangeiros"
+            },
+            {
+                "input": "Solicitação de importação de prontuario condutor",
+                "output": "A solicitação de importação de prontuario pode ser realizada de forma on line via UAI VIRTUAL  através do link: https://transito.mg.gov.br/habilitacao/prontuario/transferencia-de-outros-estados-condutor-1  ou agende o atendimento presencial através do link: https://www.mg.gov.br/agendamento_servico/importacao-de-prontuario"
+            },
+            {
+                "input": "Solicitação de importação de prontuario do candidato, transferencia da carteira de habilitação",
+                "output": "A solicitação de importação de Prontuario do candidato poder ser realizado de forma on line via UAI VIRTUAL através do link:  https://transito.mg.gov.br/habilitacao/ prontuario/transferencia-de-outros-estados-candidato-1   ou agende o atendimento presencial através do link:  https://www.mg.gov.br/agendamento_servico/importacao-de-prontuario"
+            },
+            {
+                "input": "Consultar pontuação da CNH, ver meus pontos da CNH",
+                "output": "Para consultar  pontuação da CNH acesse: https://transito.mg.gov.br/habilitacao/prontuario/consultar-pontuacao-cnh"
+            },
+            {
+                "input": "Solicitar Certidão de Prontuario, saber informações dos dados cadastrais da minha habilitação",
+                "output": "A solicitação de certidão de prontuário pode ser realizada de forma on line através do link: https://transito.mg.gov.br/habilitacao/prontuario/certidao-de-prontuario-do-condutor  ou agende o atendimento presencial através do link: https://www.mg.gov.br/agendamento_servico/emissao-de-certidao-de-prontuario"
+            },
+            {
+                "input": "Solicitar inscrição inicial do candidato, tirar carteira de habilitação/CNH",
+                "output": "Realize o cadastro de Inscrição inicial do candidato através do link: https://transito.mg.gov.br/habilitacao/1-habilitacao-quero-ser-condutor/fazer-o-cadastro-inicial-do-candidato ou agende o atendimento presencial através do link:  https://www.mg.gov.br/agendamento_servico/inscricao-inicial-primeira-habilitacao"
+            },
+            {
+                "input": "Agendar prova de legislação; marcar prova do Detran; Fazer prova de legislação;",
+                "output": "O agendamento é realizado no horário de 13: 00 às 18:00 através do link: https://transito.mg.gov.br/habilitacao/1-habilitacao-quero-ser-condutor/agendar-exame-de-legislacao"
+            },
+            {
+                "input": "Consultar resultado do exame de legislação, passei na prova de legislação",
+                "output": "Para consulta resultado da prova de legislação acesse: https://transito.mg.gov.br/habilitacao/1-habilitacao-quero-ser-condutor/consultar-resultado-do-exame-de-legislacao"
+            },
+            {
+                "input": "Solicitar alteração de dados do candidato - cadastro, cadastro, mudar ou atualizar o endereço da pauta, alteração de nome do candidato, mudar ou trocar a categoria do candidato",
+                "output": "A alteração de dados do candidato pode ser realizada de forma on line via protocolo digital através do link: https://transito.mg.gov.br/habilitacao/1-habilitacao-quero-ser-condutor/alteracao-de-dados-de-candidato   ou agende o atendimento presencial através do link:  https://www.mg.gov.br/agendamento_servico/alteracao-de-dados-do-candidatohttps://www.mg.gov.br/agendamento_servico/alteracao-de-dados-do-candidato"
+            },
+            {
+                "input": "Restituição de taxas CET; Paguei taxa errada no Detran;",
+                "output": "Para restituição de taxas da Coordenadoria Estadual de Transito (CET) acesse: https://transito.mg.gov.br/habilitacao/taxas-1/restituicao-de-taxas"
+            },
+            {
+                "input": "Paguei uma multa duas vezes, consigo o valor de uma delas de volta ?",
+                "output": "Para restituição de taxas da Coordenadoria Estadual de Transito (CET) acesse: https://transito.mg.gov.br/habilitacao/taxas-1/restituicao-de-taxas"
+            },
+            {
+                "input": "Paguei uma multa errado, consigo o valor de volta ?",
+                "output": "Para restituição de taxas da Coordenadoria Estadual de Transito (CET) acesse: https://transito.mg.gov.br/habilitacao/taxas-1/restituicao-de-taxas"
+            },
+            {
+                "input": "Gostaria de saber o resultado da prova de legislação que fiz",
+                "output": "A consulta referente ao resultado da Prova de Legislação poderá ser realizada pelo site da Coordenadoria Estadual de Transito através do link : https://transito.mg.gov.br/habilitacao/1-habilitacao-quero-ser-condutor/consultar-resultado-do-exame-de-legislacaolegislacao\n\nInforme o número do CPF\nData de nascimento\nSelecione a opção consultar."
+            },
+            {
+                "input": "Gostaria de saber que dia faço a prova de legislação do Detran.",
+                "output": "Para consultar o dia e horário da Prova de Legislação basta seguir os passos abaixo:\n Acesse o link https://transito.mg.gov.br/habilitacao/1-habilitacao-quero-ser-condutor/agendar-exame-de-legislacao\n\nPreencha com o número do CPF\nInforme a data de nascimento\nSelecione a opção segunda via que será gerado o comprovante de agendamento."
+            },
+            {
+                "input": "Ola, tive a minha CNH recolhida, fiz todas as 30h da reciclagem,porém não estou conseguindo marcar o exame do detran, o que faço ?",
+                "output": "\nDe cordo com informações da Coordenadoria Estadual de Gestão de Transito (CET) Para o exame de reciclagem é necessário a apresentação de documento de identificação original, atualizado e em perfeito estado de conservação. Para ser aprovado no exame, o condutor deverá obter no mínimo 21 pontos.\n\nFaça o agendamento através do link https://transito.mg.gov.br/infracoes/processo-de-reciclagem/realizar-processo-de-reciclagem-preventiva   preencha o formulário eletrônico abaixo, escolha turno e data da prova e imprima o comprovante de agendamento.\nATENÇÃO: Após o pagamento do DAE, aguarde no mínimo uma hora antes de fazer o agendamento.\n\nNo dia do exame, além da apresentação do documento de identidade, o condutor será identificado por captura de imagem e biometria. Caso o condutor compareça para fazer o exame sem ter feito a captura de imagem e o cadastro biométrico, não poderá fazer a prova de reciclagem e será considerado ausente."
+            },
+            {
+                "input": "Preciso da 2º via da DAE para renovação da Habilitação.",
+                "output": "Prezado (a)\nA sua mensagem mereceu toda a atenção da nossa equipe. \nOrientamos que agende atendimento em uma UAI mais próxima para emissão da segunda via e boletim resumo onde constará o endereço da clínica."
+            },
+            {
+                "input": "Boa tarde. Gostaria de me informar como proceder para solicitar a transferência da CNH/MG para o Detran de SP.  Caso seja necessário o comparecimento pessoal, seria possível solicitar a transferência por meio de Procuração, pois resido em outro estado. Desde já, agradeço.",
+                "output": "Prezado(a),\nSua demanda mereceu toda atenção da nossa equipe.\nVocê deve procurar o Detran SP para informações sobre os procedimentos necessários. Os Detrans são órgãos independentes e tem processos distintos."
+            },
+            {
+                "input": "Quero saber sobre o andamento da minha Cnh não estou conseguindo acompanhar e quero retirar\nCpf: 06988264698\nData de nascimento: 18/05/2000",
+                "output": "Prezado(a)\nPara acompanhar a entrega de CNH, acesse o link abaixo e informe os dados solicitados;\nhttps://transito.mg.gov.br/habilitacao/emissao-de-documentos-de-habilitacao/acompanhar-entrega-de-cnh"
+            },
+            {
+                "input": "Prezados,\nMudei de endereço e quando renovei minha CNH me esqueci de alterar o endereço no site do DETRAN.\nTentei ir aos correios, porém eles informaram que minha CNH estaria no UAI.\nPosso fazer a retirada pessoalmente no UAI? Vocês conseguem rastrear, para verificar se minha CNH está aí?\n\nDesde já agradeço,",
+                "output": "Prezado (a)\n\nEm resposta a sua demanda informamos que para acompanhar a entrega da CNH deverá acessar o link : https://transito.mg.gov.br/habilitacao/emissao-de-documentos-de-habilitacao/acompanhar-entrega-de-cnh\n\nInserir com o número do CPF\nDigitar a data de nascimento e clicar em pesquisar.\n\nEsclarecemos que o documento que não for entregue na residência do cidadão após 03 (três) tentativas será encaminhado ao Centro de Distribuição de Documentos dos Correios (CDD) mais próximo da residência do titular e não mais nesse primeiro momento na Uai ou Ciretran,\n\nAs CNHS ficarão disponíveis nos CDD dos correios por 20 dias corridos e somente depois serão encaminhadas para a Uai mais próxima ou na inexistência da UAI, procure Delegacia /Ciretran.\n\nEsclarecemos que se na consulta aparecer a informação ,devolvido ao remente, poderá comparecer a UAI mais próxima ou na inexistência da UAI procurar CIRETRAN (sem necessidade de agendamento)."
+            },
+            {
+                "input": "Horário para retirada de CNH",
+                "output": "Prezado (a)\nNão é mais necessário agendamento para retirar o documento já emitido. Basta comparecer na Unidade que o documento está localizado, dentro do horário de funcionamento, acesse o site da Coordenadoria Estadual e Gestão de Transito (CET) através do link: https://transito.mg.gov.br/habilitacao/emissao-de-documentos-de-habilitacao/acompanhar-entrega-de-cnh"
+            },
+            {
+                "input": "Boa tarde. Gostaria de saber se a CNH que não foi recebida pelo destinatário volta para o Uai da Praça Sete, caso o destinatário resida em Belo Horizonte. Em caso afirmativo, é necessário agendar horário?",
+                "output": "Prezado(a)\nDocumentos de CNH de Belo Horizonte, que por algum motivo não foi entregue no endereço cadastrao, devem ser retirados na UAI Praça Sete, não é necessário agendamentos prévio para retirada do documento de habilitação."
+            },
+            {
+                "input": "tentei renovar minha CNH mas está aparecendo serviço em aberto e não deixa dar continuidade",
+                "output": "Em situações onde o sistema da Coordenadoria Estadual de Gestão de Transito ( CET)  identifica que já existem serviço em aberto pendente de conclusão,  é necessário que  abra um fale conosco através do link: https://www.mg.gov.br/pagina/fale-conosco  uma equipe treinada irá analisar a demanda a fim de atualizar o sistema para que o cidadão consiga fazer nova abertura de serviço de forma on line.\n "
+            }
+        ]
+    },
+    "veículo": {
+        "entries": [
+            {
+                "input": "Não estou conseguindo emitir o licenciamento CRLV do veiculo, gostaria de saber o motivo do não licenciamento",
+                "output": "Para consultar o motivo do não licencimento do veiculo acesse o link: https://transito.mg.gov.br/veiculos/situacao-do-veiculo/consultar-motivo-veiculo-nao-licenciado"
+            },
+            {
+                "input": "como faço para emitir o boleto de multa , como saber o valor da multa",
+                "output": "Para emitir o boleto com o valor da multa deverá acessar o site da Coordenadoria Estadual e Gestão de Transito (CET) através do link: https://transito.mg.gov.br/veiculos/situacao-do-veiculo/emitir-de-extrato-de-multas"
+            },
+            {
+                "input": "como faço para verificar se já consta pagamento da taxa que paguei, consultar baixa de pagamento ",
+                "output": "Para consultar baixa de pagamento das taxas acesse o link: https://transito.mg.gov.br/veiculos/taxas-ipva-seguro-dpvat/consultar-o-comprovante-de-pagamento-de-taxas"
+            },
+            {
+                "input": "onde encontrar informações sobre seguro DPVAT",
+                "output": "Para informações sobre seguro DPVAT acesse: https://transito.mg.gov.br/veiculos/taxas-ipva-seguro-dpvat/seguro-dpvat"
+            },
+            {
+                "input": "informações IPVA ",
+                "output": "Para informações sobre IPVA acesse: https://transito.mg.gov.br/veiculos/taxas-ipva-seguro-dpvat/pagar-o-imposto-sobre-a-propriedade-de-veiculos-automotores-ipva"
+            },
+            {
+                "input": "Como obter licenciamento anual do veiculo CRLV",
+                "output": "Para obter Certificado de Registro e Licenciamento de Veículo acesse: https://transito.mg.gov.br/veiculos/taxas-ipva-seguro-dpvat/obter-o-licenciamento-anual-do-veiculo"
+            },
+            {
+                "input": "como parcelar debitos do meu veiculo, parcelamento de debitos ",
+                "output": "Para informações sobre parcelamento de debitos de veiculo acesse: https://transito.mg.gov.br/veiculos/taxas-ipva-seguro-dpvat/parcelar-debitos-incidentes-sobre-veiculos"
+            },
+            {
+                "input": "Como solicitar isenção de taxas para o meu veiculo, isenção de taxas veicular ",
+                "output": "Para informações sobre pedido de isenção de taxas acesse: https://transito.mg.gov.br/veiculos/taxas-ipva-seguro-dpvat/solicitar-isencao-de-taxas"
+            },
+            {
+                "input": "Como faço para solicitar restituição de taxas referente ao veiculo",
+                "output": "Para solicitar restituição de taxas acesse: https://transito.mg.gov.br/veiculos/taxas-ipva-seguro-dpvat/solicitar-restituicao-de-taxas-1"
+            },
+            {
+                "input": "Como faço para solicitar restuição de taxas de IPVA no caso de furto e roubo",
+                "output": "Para obter informações sobre pedido de restituição de taxas de IPVA em casos de furto ou roubo acesse: https://transito.mg.gov.br/veiculos/taxas-ipva-seguro-dpvat/solicitar-restituicao-de-ipva-em-caso-de-furto-roubo-de-veiculo"
+            },
+            {
+                "input": "Como faço para emitir certidão negativa de propriedade de veiculo",
+                "output": "Para emitir a certidão negativa de propriedade de veiculo acesse: https://transito.mg.gov.br/veiculos/certidoes-pesquisa/certidao-negativa-de-propriedade"
+            },
+            {
+                "input": "Como solicitar pesquisa de informações cadastrais do veiculo, print de veiculo",
+                "output": "Para solicitar pesquisa de informações cadastrais acesse: https://transito.mg.gov.br/veiculos/certidoes-pesquisa/print-informacoes-cadastrais/preencherDadosDoVeiculo/12"
+            },
+            {
+                "input": "Solicitar pesquisa de informações cadastrais do veiculo em caso de acidente de transito, identificar proprietário",
+                "output": "Para solicitar a pesquisa de identificação do proprietario em casos de acidente de transito acesse: https://transito.mg.gov.br/veiculos/certidoes-pesquisa/certidao-print-de-identificacao-de-condutor-1"
+            },
+            {
+                "input": "Quero saber se existe ação judicial para o veiculo",
+                "output": "Para consultar se existe ação judicial para o veiculo acesse: https://transito.mg.gov.br/veiculos/certidoes-pesquisa/certidao-para-acoes-judiciais/preencherDadosDoVeiculo/12"
+            },
+            {
+                "input": "Como solicitar copia microfilmada de propriedade de veiculo",
+                "output": "Para solicitar copia microfilmada de propriedade de veiculo acesse: https://transito.mg.gov.br/veiculos/certidoes-pesquisa/solicitar-copia-microfilmada-de-prontuario-de-veiculo"
+            },
+            {
+                "input": "Como realizar meu primeiro emplacamento do veiculo",
+                "output": "Para obter informações sobre primeiro emplacamento acesse: https://transito.mg.gov.br/veiculos/emplacamento/realizar-primeiro-emplacamento-veiculo-zero-km"
+            },
+            {
+                "input": "Como trocar o modelo da placa",
+                "output": "Para informações sobre troca de modelo da placa acesse: https://transito.mg.gov.br/veiculos/emplacamento/troca-do-modelo-de-placa-opcional-dano-extravio-furto-roubo"
+            },
+            {
+                "input": "Troca de placa no caso de roubo, furto, dano ou extravio",
+                "output": "Para obter informações sobre troca de placa nos casos de furto/ roubo/ dano ou extravio acesse: https://transito.mg.gov.br/veiculos/emplacamento/troca-do-modelo-de-placa-opcional-dano-extravio-furto-roubo"
+            },
+            {
+                "input": "Como reservar placa de minha preferencia",
+                "output": "Para obter informações sobre reserva de placa acesse: https://transito.mg.gov.br/veiculos/emplacamento/reserva-de-placas-especiais"
+            },
+            {
+                "input": "Solicitar emplacamento de reboque ou semireboque, veiculo de outro municipio",
+                "output": "Para obter informações sobre emplacamento de veiculo rebocado acesse: https://transito.mg.gov.br/veiculos/emplacamento/reboque-ou-semirreboque"
+            },
+            {
+                "input": "Solicitar troca de placa amarela para nova placa de identificação",
+                "output": "Para obter informações sobre troca de placa amarela para identificação veicular acesse: https://transito.mg.gov.br/veiculos/emplacamento/mudanca-de-placa-amarela"
+            },
+            {
+                "input": "Informações sobre placa de experiencia , teste montadora",
+                "output": "Para informações sobre placa de experiencia acesse: https://transito.mg.gov.br/veiculos/emplacamento/obtencao-de-placa-de-experiencia/preencherDadosDoVeiculo/42"
+            },
+            {
+                "input": "Tenho carro antigo e deseja emplacar",
+                "output": "Para obter informações sobre emplacamento de veiculo antigo de coleção acesse: https://transito.mg.gov.br/veiculos/emplacamento/veiculo-de-colecao"
+            },
+            {
+                "input": "Emplacamento de ciclomotores de duas rodas",
+                "output": "Para informações sobre emplacamento de veiculos de duas rodas com cilindrada inferior a cinquenta centimetros cubicos acesse: https://transito.mg.gov.br/veiculos/emplacamento/ciclomotores-2"
+            },
+            {
+                "input": "Alteração de endereço do veiculo dentro do mesmo municipio",
+                "output": "Para informações sobre alteração de endereço do veiculo dentro do municipio acesse: https://transito.mg.gov.br/veiculos/alteracoes/alteracao-de-endereco-dentro-do-municipio"
+            },
+            {
+                "input": "Alteração de endereço para outro municipio",
+                "output": "Para informações sobre alteração de endereço para outro municipio acesse:  https://transito.mg.gov.br/veiculos/alteracoes/alteracao-de-endereco-para-outro-municipio-em-mg-veiculos"
+            },
+            {
+                "input": "Solicitar mudança de categoria do veiculo",
+                "output": "Para informações sobre mudança de categoria do veiculo acesse: https://transito.mg.gov.br/veiculos/alteracoes/mudanca-de-categoria-do-veiculo"
+            },
+            {
+                "input": "Retirada de restrição financeira do veiculo",
+                "output": "Para informações sobre retirada de restrição fiananceira acesse: https://transito.mg.gov.br/veiculos/alteracoes/inclusao-e-retirada-de-restricao-financeira"
+            },
+            {
+                "input": "Quero realizar transformações em meu veiculo",
+                "output": "Para informações sobre solicitação de transformações no veiculo acesse: https://transito.mg.gov.br/veiculos/alteracoes/transformacoes-no-veiculo"
+            },
+            {
+                "input": "Como faço para blindar meu veiculo",
+                "output": "Para informações sobre blindagem de veiculo acesse: https://transito.mg.gov.br/veiculos/alteracoes/blindagem-de-veiculo"
+            },
+            {
+                "input": "Gostaria de alterar a cor do meu veiculo o que fazer",
+                "output": "Para informações sobre alteração de cor do veiculo acesse: https://transito.mg.gov.br/veiculos/alteracoes/alterar-cor-do-veiculo"
+            },
+            {
+                "input": "Como faço para rebaixar o meu veiculo",
+                "output": "Para informações sobre rebaixamento do veiculo acesse: https://transito.mg.gov.br/veiculos/alteracoes/rebaixamento-do-veiculo"
+            },
+            {
+                "input": "Como adaptar bau em minha motocicleta",
+                "output": "Para infornações sobre sua demanda acesse o link: https://transito.mg.gov.br/veiculos/alteracoes/moto-com-bau-removivel"
+            }
+        ]
+    },
+    "seguro desemprego": {
+        "entries": [
+            {
+                "input": "Não consigo solicitar o seguro de forma on line, problema, dificuldade, desemprego, cadastro, cadastrar, desemprego agendar seguro, pis duplicado, ata judicial, divergencia no cadastro, recuperar parecela, minha parcela não caiu na conta.",
+                "output": "Caso não consiga solicitar de forma on line agende o atendimento presencial através do link: https://www.mg.gov.br/agendamento_servico/requerimento-do-seguro-desemprego"
+            },
+            {
+                "input": "Bom dia. Estou esperando um retorno do meu seguro.",
+                "output": "Para obter o atendimento referente ao Seguro Desemprgo é necessário agendar o atendimento presencial pelo portal do cidadão através do link: https://www.mg.gov.br/agendamento_servico/requerimento-do-seguro-desemprego"
+            },
+            {
+                "input": "Bom dia; meu marido deu entrada no seguro dia 31/03 e até agora não saiu a resposta do valor ou quantas parcelas.",
+                "output": "Para obter o atendimento referente ao Seguro Desemprgo é necessário agendar o atendimento presencial pelo portal do cidadão através do link: https://www.mg.gov.br/agendamento_servico/requerimento-do-seguro-desemprego"
+            },
+            {
+                "input": "Bom dia, eu gostaria de trocar a conta em que eu irei receber meu seguro desemprego, seria com vocês e eu preciso agendar?",
+                "output": "Para obter o atendimento referente ao Seguro Desemprgo é necessário agendar o atendimento presencial pelo portal do cidadão através do link: https://www.mg.gov.br/agendamento_servico/requerimento-do-seguro-desemprego"
+            },
+            {
+                "input": "Solicitar seguro por ata judicial ou seguro desemprego não caiu na conta",
+                "output": "Para obter o atendimento referente ao Seguro Desemprgo é necessário agendar o atendimento presencial pelo portal do cidadão através do link: https://www.mg.gov.br/agendamento_servico/requerimento-do-seguro-desemprego"
+            },
+            {
+                "input": "Meu seguro desemprego não caiu ainda, o que faço ?",
+                "output": "Para obter o atendimento referente ao Seguro Desemprgo é necessário agendar o atendimento presencial pelo portal do cidadão através do link: https://www.mg.gov.br/agendamento_servico/requerimento-do-seguro-desemprego"
+            },
+            {
+                "input": "Quero agendar atendimento de Seguro Desemprego",
+                "output": "O agendamento é realizado pelo próprio cidadão  através do link: https://www.mg.gov.br/agendamento_servico/requerimento-do-seguro-desemprego"
+            },
+            {
+                "input": "Como faço para abrir recurso referente a Seguro Desemprego",
+                "output": "Para obter orientações referente a recurso de seguro desemprego junto ao Ministério do Trabalho, faça contato através do link :https://www.gov.br/trabalho-e-emprego/pt-br/canais_atendimento/formulario-de-contato"
+            },
+            {
+                "input": "como faço minha carteira de trabalho",
+                "output": "Para acessar a carteira de trabalho digital, basta baixar gratuitamente o aplicativo Carteira de Trabalho Digital na loja de aplicativos do seu celular. Ou acessar via Web, por meio do link:  https://servicos.mte.gov.br/ E quem já tem cadastro no sistema acesso.gov.br, basta usar seu Login e senha de acesso no APP Carteira de Trabalho Digital."
+            }
+        ]
+    },
+    "boletim de ocorrência": {
+        "entries": [
+            {
+                "input": "Registrei um BO em função de perda ou extravio de documento (CNH). Contudo encontrei minha carteira de habilitação , gostaria de saber se há alguma possibilidade de cancelar o BO emitido pelo órgão, tendo em vista que recuperei os documentos. Se há a possibilidade de cancelar o BO como posso fazê-lo. (cancelamento de boletim de ocorrência)",
+                "output": "Para informações sobre cancelamento de Boletim de Ocorrencia é necessário comparecer em uma Unidade Policial para verificar qual o procedimento será adotado. "
+            },
+            {
+                "input": "Boa tarde. Gostaria de saber como/em qual link registrar Boletim de ocorrência virtual acerca de fraude online em pagamento via PIX. Obrigada.",
+                "output": "Prezado(a),\nAs ocorrências podem ser registradas diretamente em uma Delegacia Policial, onde o cidadão deverá comparecer para relatar o fato ocorrido. As ocorrências também podem ser registradas pela Delegacia Virtual em qualquer horário, sem a necessidade de se deslocar até uma unidade policial. As ocorrências registradas pela Delegacia Virtual são:\n- Acidente de Trânsito sem Vítima;\n- Desaparecimento de Pessoa;\n- Localização de Desconhecido;\n- Perda de Documentos e Objetos;\n- Localização de Desaparecido;\n- Dano simples.\n- Furto\n- Ameaça\n- Vias de fato / Lesão Corporal\n- Descumprimento de Medida Protetiva\n\nAcesse o site: https://delegaciavirtual.sids.mg.gov.br/sxgn/ocorrencia/renderTelaInicial\nO registro de ocorrência feito por meio da Delegacia Virtual tem a mesma validade que o registro realizado presencialmente em qualquer unidade policial.\nO boletim de ocorrência poderá ser impresso na própria unidade policial ou através da Web.\nNúmero identificador da ocorrência (BO, REDS ou protocolo inicial);\nCarteira de identidade ou CPF."
+            },
+            {
+                "input": "Boa noite, gostaria de saber como faço para registrar um BO de furto de celular ocorrido ha mais de 1 ano. Eu nao pude fazer a ocorrencia na epoca porque suspeitava que quem tinha furtado era uma pessoa que morava na mesma republica que eu. Entao caso eu registrasse a queixa, poderia ter algum tipo de retaliação.",
+                "output": "Prezado (a)\nInformamos que o Registro de Ocorrência por furto também pode ser feita na Delegacia Virtual em qualquer horário, sem a necessidade de se deslocar até uma Unidade policial. Acesse o site: https://delegaciavirtual.sids.mg.gov.br/sxgn/ocorrencia/renderTelaInicial\n\nO registro de ocorrência feito por meio da Delegacia Virtual tem a mesma validade que o registro realizado presencialmente em qualquer unidade policial. O boletim de ocorrência poderá ser impresso na própria unidade policial ou através da Web.\n\nNúmero identificador da ocorrência (BO, REDS ou protocolo inicial);\nCarteira de identidade ou CPF."
+            },
+            {
+                "input": "Quero fazer B.O de crime virtual.",
+                "output": "Prezado (a)\nAs ocorrências podem ser registradas diretamente em uma Delegacia Policial, onde o cidadão deverá comparecer para relatar o fato ocorrido. As ocorrências também podem ser registradas pela Delegacia Virtual em qualquer horário, sem a necessidade de se deslocar até uma unidade policial. As ocorrências registradas pela Delegacia Virtual são:\n- Acidente de Trânsito sem Vítima;\n- Desaparecimento de Pessoa;\n- Localização de Desconhecido;\n- Perda de Documentos e Objetos;\n- Localização de Desaparecido;\n- Dano simples.\n- Furto\n- Ameaça\n- Vias de fato / Lesão Corporal\n- Descumprimento de Medida Protetiva\n\nAcesse o site: https://delegaciavirtual.sids.mg.gov.br/sxgn/ocorrencia/renderTelaInicial\nO registro de ocorrência feito por meio da Delegacia Virtual tem a mesma validade que o registro realizado presencialmente em qualquer unidade policial. O boletim de ocorrência poderá ser impresso na própria unidade policial ou através da Web.\n\nNúmero identificador da ocorrência BO, REDS ou protocolo inicial\nCarteira de identidade ou CPF."
+            },
+            {
+                "input": "Como consigo consultar o boletim que registrei para imprimir",
+                "output": "A consulta do Boletim de Ocorrência poderá ser realizada através do APP CIDADÃO MG seguindo os passos abaixo:\nAcesse: cidadao.mg.gov.br e faça LOGIN com CPF e senha GOV\"\nEscolha a opção \"segurança\"\nEscolha uma das formas de consulta \" indicadores da ocorrência/ indicadores do envolvido\"\nInsira os dados da ocorrência( BO/REDS) ou dados do envolvido(nome/cpf/rg)\nClique em consultar\nCaso não consiga realizar a consulta de forma on line procure uma delegacia mais próxima."
+            },
+            {
+                "input": "Como solicitar atestado de atencedentes criminais criminais ",
+                "output": "O Atestado de Antecedentes é emitido SOMENTE via internet através do link :https://wwws.pc.mg.gov.br/atestado/solicitarsel.do?evento=x&fwPlc=s\nRessaltamos que apenas nos casos em que não se pode emitir o atestado por estes canais, deve-se requerer o atendimento presencial nas Unidades de Atendimento Integrado (UAI), por meio do agendamento presencial.\nPara agendar atendimento presencial acesse o link :https://www.mg.gov.br/agendamento_servico/atestado-de-antecedentes-criminais\n1.\tEscolha o município\n2.\tEscolha a Unidade\n3.\tDia e Horário\n4.\tPreencha o formulário com os dados pessoais e clique em confirmar o agendamento.\n"
+            }
+        ]
+    },
+    "diversos e determinações": {
+        "entries": [
+            {
+                "input": "Como aumentar o nivel da minha conta GOV\" - ouro, prata , bronze, aumento, acessar, informação, informações, como faço.",
+                "output": "Para obter informações sobre como aumentar o nivel da conta GOV\"acesse: https://www.gov.br/governodigital/pt-br/conta-gov-br/niveis-da-conta-govbr"
+            },
+            {
+                "input": "quais documentos necessários para emissão da ciptea, documento carteira autismo ",
+                "output": "Relatorio medico, carteira de Identidade do titular e do responsavel lega , fotntificacao-da-pessoa-com-transtorno-do-espectro-autista-\nRelatório médico com registro no Conselho Regional De Medicina (CRM) apontando diagnóstico no âmbito do Transtorno Do Espectro Autista (TEA) e indicando o código da Classificação Estatística Internacional de Doenças e Problemas Relacionados à Saúde (CID).\nCarteira de Identidade do identificado com TEA;\nFotografia 3x4 recente do identificado, demonstrando área do rosto; comprovante de endereço\nCarteira de Identidade do responsável legal ou do cuidador, quando houver;\nOBS: A apresentação dos documentos originais são obrigatórios"
+            },
+            {
+                "input": "Como eu solicito a minha Ciptea, como faço obter a carteira de ciptea, quero a cartera do Tea, meu filho é autista como consigo  a carteira da ciptea, preciso da carteira de autismo,  Fui diagnosticado com espectro autista, como eu consigo o documento CIPTEA?",
+                "output": "Para solicitar Ciptea(Carteira de Identificação da Pessoa com Transtorno do Espectro Autista) de forma on line o nivel da conta GOV\"deve ser Prata ou Ouro acesse o link:  cidadao.mg.gov.br  ou agende o atendimento presencial através do link: https://www.mg.gov.br/agendamento_servico/emissao-ciptea"
+            },
+            {
+                "input": "Como acompanhar entrega da Ciptea, Como ver o andamento do pedido da minha ciptea, como saber se a CPTEA está pronta, não recebi o e-mail com informações sobre a carteira ciptea.",
+                "output": "O acompanhamento da entrega da carteira do CIPTEA, poderá ser realizada através do e-mail cadastrado durante o atendimento ou acessando o site cidadao.mg.gov.br. No site, insira seu CPF , senha GOV\" e selecione a opção \"Desenvolvimento Social \", em seguida selecione a opção desejada.  Ressaltamos que o prazo para entrega do documento é de 10 dias úteis. \n"
+            },
+            {
+                "input": "GOSTARIA DE SABER COMO FAÇO A RENOVAÇÃO DO DOCUMENTO \"COMERCIO DE PRODUTOS VETERINÁRIO FARMACÊUTICOS\".",
+                "output": "Para obter informações sobre sua demanda sugerimos que abra um fale conosco através do link : https://www.mg.gov.br/pagina/fale-conosco"
+            },
+            {
+                "input": "Gostaria de solicitar medicamento, preciso de solicitar remedio,",
+                "output": "O serviço de agendamento permite ao cidadão pertencente à Regional de Saúde de Belo Horizonte agendar o atendimento para solicitar medicamentos do Componente Especializado da Assistência Farmacêutica (CEAF).\n\nAtenção! O agendamento eletrônico está disponível somente para os cidadãos que residem nos municípios pertencentes à Regional de Saúde de Belo Horizonte. Clique aqui para saber os municípios.\n\nAntes de agendar, confira aqui se o medicamento prescrito é fornecido para o seu tratamento.\n\nClique aqui para conferir todos os documentos e exames exigidos de acordo com o checklist para o seu tratamento específico. \n\nO agendamento é apenas para a abertura de solicitação de medicamento especializado, para realizar o agendamento acesse: https://www.mg.gov.br/agendamento_servico/solicitacao-de-medicamentos-especializados"
+            },
+            {
+                "input": "consultar o andamento do pedido de medicamentos",
+                "output": "Para consultar o andamento da solicitação de medicamentos acesse: cidadao.mg.gov.br , faça login com CPF e senha do GOV, escolha a opção Saúde e em seguida consulta andamento da solicitação/ disponibilidade de medicamentos, preencha o formulário e clique em pesquisar"
+            },
+            {
+                "input": "Quais documentos são necessários para me cadastrar na Farmácia de Minas?",
+                "output": "Para solicitar o medicamento, o paciente ou responsável deverá providenciar toda a documentação e exames exigidos, de acordo com a doença. Os formulários por doença estão disponíveis no site da SES/MG, no link https://www.saude.mg.gov.br/formulariosceaf"
+            },
+            {
+                "input": "preciso fazer meu alistamento militar qual o procedimento, quero me alistar o que fazer ?",
+                "output": "Somente as UAIS dos municipios de Betim e Leopoldina atendem 1º alistamento militar,  para realizar o agendamento acesse o portal do cidadão através do link: https://www.mg.gov.br/agendamento_servico/1o-alistamento-militar   Esclarecemos que o alistamento militar é realizado no município de residencia do cidadão. Para ver os documentos obrigatórios e mais informações, https://www.alistamento.eb.mil.br.\n\nAtenção! O agendamento é pessoal e intransferível. Portanto, os dados cadastrados durante o agendamento devem ser iguais aos da documentação que será apresentada no momento do atendimento. Dados incompatíveis poderão inviabilizar a prestação dos serviços."
+            },
+            {
+                "input": "Como faço para emitir meu CPF ?",
+                "output": "O serviço é realizado Receita Federal através do site: https://servicos.receita.fazenda.gov.br/servicos/cpf/inscricaopublica/inscricao.asp"
+            },
+            {
+                "input": "Precisa agendar para buscar, entrega, passaporte já emitido",
+                "output": "Para emissão que foi realizada em uma das Unidades de Atendimento Integrado (UAI) deverá realizar o agendamento através do site https://www.mg.gov.br/agendamento_servico/entrega-de-passaporte  "
+            },
+            {
+                "input": "O medicamento que uso está em falta há 3 meses! Tem um aprevisão de quando vai normalizar?",
+                "output": "Para consultar o andamento da solicitação de medicamentos acesse: cidadao.mg.gov.br , faça login com CPF e senha do GOV, escolha a opção Saúde e em seguida consulta andamento da solicitação/ disponibilidade de medicamentos, preencha o formulário e clique em pesquisar. Para maiores informações poderá abrir uma demanda no Fale Conosco https://www.mg.gov.br/pagina/fale-conosco para que seja verificado junto ao Órgão Responsável."
+            },
+            {
+                "input": "Como emitir 2ª via do Título de Eleitor?",
+                "output": "A solicitação de 2ª via do Título de Eleitor pode ser realizada através do site https://www.tre-mg.jus.br/servicos-eleitorais/titulo-e-local-de-votacao/primeiro-titulo-e-segunda-via do Tribunal Regional Eleitoral ou presencialmente em um Cartório Eleitoral."
+            },
+            {
+                "input": "Atestado de antecedentes criminais da policia federal",
+                "output": "A certidãpo de antecedentes criminais da Polícia Federal pode ser solicitada através do site https://www.gov.br/pt-br/servicos/emitir-certidao-de-antecedentes-criminais"
+            },
+            {
+                "input": "Como fazer uma reclamação no PROCON?",
+                "output": "Orientamos que acesse o site https://www.mg.gov.br/agendamento_servico/procon-atendimento-preliminar para agendar o atendimento. Informamos que não são todas as Unidades de Atendimento Integrado (UAI) que realizam o serviço, caso o seu município não esteja na lista de municípios, orientamos que acesse o link a seguir e verifique um ponto de atendimento mais proximo: https://www.mpmg.mp.br/portal/menu/areas-de-atuacao/cidadania/consumidor/estrutura-da-coordenacao/assessoria-tecnica/instituicoes-de-interesse-do-consumidor/procons.shtml"
+            },
+            {
+                "input": "Moro em São Paulo e preciso emitir o Atestado de Antecedentes Criminais da Polícia Civil",
+                "output": "Se possui RG emitido em Minas Gerais é possível emitir o Atestado de Antecedentes Criminais através do site https://wwws.pc.mg.gov.br/atestado/inicial.do;jsessionid=375DB506196F15DAFCF7E1C7864E0CBC?evento=cookie Se não possuir deverá comparecer no atendimento presencial em uma das UAI´s do Estado apresentando documento de identificação civil com foto"
+            },
+            {
+                "input": "Informe de Rendimentos para Declaração de Imposto de Renda - Servidor Público - ",
+                "output": "Solicitação de rendimentos informa os valores recebidos no ano pelo servidor público com a administração pública direta, autárquica e fundacional do Poder Executivo, orinetamos que acesse o site para obter informações sobre a realização do serviço https://www.portaldoservidor.mg.gov.br/informe-de-rendimentos"
+            },
+            {
+                "input": "como faço para saber o telefone da UAI",
+                "output": "Para entrar em contato e obter orientações sobre os serviços prestados nas UAIS basta ligar no  155 ou acesse o fale conosco através do link: https://www.mg.gov.br/pagina/fale-conosco"
+            },
+            {
+                "input": "como faço para alterar minha certidadão de nascimento gratuitamente, preciso segunda via da certidão posso ter gratuidade na emissão, preciso solicitar certidão de nascimento, casamento, óbito",
+                "output": "Para obter informações sobre sua demanda sugerimos que abra um fale conosco através do link : https://www.mg.gov.br/pagina/fale-conosco"
+            },
+            {
+                "input": "como emitir meu contracheque, não consigo emitir o olerite, como conseguir meu contra cheque",
+                "output": "para consultar o contra cheque basta acessar cidadao.mg.gov.br fazer login com cpf e senha GOV, escolha a opção servidor estadual e clique em contra cheque que terá acesso as informações do seu salário"
+            },
+            {
+                "input": "como faço para trabalhar na UAI, gostaria de trabalhar na UAI o que devo fazer?",
+                "output": "Para obter informações abra um fale conosco através do link: https://www.mg.gov.br/pagina/fale-conosco"
+            },
+            {
+                "input": "como conseguir assessoria juridica gratuita, quero um advogado mas não tenho como pagar o que fazer, preciso de advogado",
+                "output": "Para obter orientações poderá verificar junto a Defensoria publica através do link: https://defensoria.mg.def.br/fale-com-a-defensoria/"
+            },
+            {
+                "input": "como conseguir bolsa  familia, preciso cadastrar no cad unico",
+                "output": "Somente a UAI do municipio de Varginha presta o atendimento com relação ao bolsa familia e cadastro unico caso seja de outro municipio deverá procurar a Prefeitura para obter maiores informações. Para realizar o agendamento na UAI de Varginha acesse: https://www.mg.gov.br/agendamento_servico/assistente-social-cadunico"
+            },
+            {
+                "input": "como faço para dar entrada na pensão por morte, meu marido ou esposa faleceu preciso dar entrada pensão, entrada no peculio, preciso de assistencia a saude ipsemg, preciso fazer censo previdenciario, preciso de peculio e seguro",
+                "output": "Para obter orientações sobre sua demanda agende um atendimento presencial na UAI mais próxima basta acessar o link: https://www.mg.gov.br/pagina/agendamento-online-gratuito e clicar na opção Instituto de Previdencia dos Servidores do Estado de Minas Gerais (ipsemg) e escolher o serviço desejado."
+            },
+            {
+                "input": "como conseguir uma vaga de emprego, quero me candidatar a uma vaga de emprego",
+                "output": "Para verificar as vagas de emprego disponíveis, poderá acessar de forma on line através do site: empregabrasil.mte.gov.br ou baixar o Aplicativo APP SINE FÁCIL.\n\nPara atendimento presencial acesse: https://www.mg.gov.br/\n\n"
+            },
+            {
+                "input": "Quero doar sangue o que fazer?  doação de sangue",
+                "output": "o agendamento para doar sangue é feito pelo do portal do cidadão www.mg.gov.br  através do  link  https://www.mg.gov.br/agendamento_servico/doacao-de-sangue\n"
+            },
+            {
+                "input": "como cadastrar minha biometria no tre, preciso atulizar meu titulo e cadastrar biometria , TSE cadastro",
+                "output": "Para obte informações sobre sua demanda acesse: https://www.tse.jus.br/eleicoes/biometria"
+            },
+            {
+                "input": "como saber o andamento da minha carteira COREN, não recebi o Coren o que fazer ",
+                "output": "O prazo para emissão da carteira pelo COREN, são 30 dias uteis após a solicitação, para acompanhar o andamento e obter informações sobre o número do AR  envie  e-mail para  atendimento@corenmg.gov.br\n"
+            },
+            {
+                "input": "como fazer a prova de vida , fazer recadastramento de pensionista",
+                "output": "A prova de vida pode ser realizada no banco onde recebe o pagamento no mês do Aniversário, pelo aplicativo gov.br através do GOV.BR através do link https://www.gov.br/governodigital/pt-br/identidade/prova-de-vida ou agendar atendimento em uma Unidade de Atendimento Integrado( UAI)  através do link: https://www.mg.gov.br/agendamento_servico/recadastramento-de-inativos-e-pensionistas-especiais-seplag"
+            }
+        ]
+    },
+    "endereços das UAI": {
+        "entries": [
+            {
+                "input": "UAI - ARAXÁ",
+                "output": "Rua Domingos Di Mambro, 850 - Vila Silvéria38183-390 - ARAXÁ - MG"
+            },
+            {
+                "input": "UAI – BARBACENA",
+                "output": "RUA SILVA JARDIM, 340 – BOA MORTE36201-004 - BARBACENA – MG"
+            },
+            {
+                "input": "UAI – BARREIRO",
+                "output": "Av. AFONSO VAZ DE MELO, 640 – 4º PISO – ANEXO NOVO - VIA SHOPPING – BARREIRO30.640-070 – BELO HORIZONTE – MG"
+            },
+            {
+                "input": "UAI – BETIM",
+                "output": "Av. Juiz Marco Túlio Isaac, 1.119 - Ingá Alto, Monte Carmo Shopping  - Betim – MG32604-345 – BETIM – MG"
+            },
+            {
+                "input": "UAI - CAMPO FLORIDO",
+                "output": "Praça Eteocles Vilela Silva, 7838130-000 - CAMPO FLORIDO - MG"
+            },
+            {
+                "input": "UAI - CARATINGA",
+                "output": "Av. Tancredo Neves, 727 – José Moyses Nacif35.300-601 – CARATINGA – MG"
+            },
+            {
+                "input": "UAI - CÁSSIA",
+                "output": "Praça Juscelino Kubitschek de Cambuí, 108, Centro37.980-000 – CÁSSIA – MG"
+            },
+            {
+                "input": "UAI - CONCEIÇÃO DAS ALAGOAS",
+                "output": "Praça Jazinho Vieira de Souza, 35 – José Borges de SeneCEP: 38.120-000 - CONCEIÇÃO DAS ALAGOAS - MG"
+            },
+            {
+                "input": "UAI – CONFINS (Aeroporto)",
+                "output": "1º Piso do Terminal de Passageiros 1 - Nível superior ao Check-in 1 (Azul) - AEROPORTO INTERNACIONAL DE CONFINSRodovia LMG- 800, KM 7,9 - 33.500-900 – CONFINS – MG"
+            },
+            {
+                "input": "UAI – CONTAGEM",
+                "output": "RUA MARIO VITAL, 168, 2º Piso - Shopping Oiapoque Eldorado32.315-160 – CONTAGEM – MG"
+            },
+            {
+                "input": "UAI - CORONEL FABRICIANO",
+                "output": "Av. PEDRO NOLASCO, 425 – CENTRO35.170-300 – CORONEL FABRICIANO – MG"
+            },
+            {
+                "input": "UAI – CURVELO",
+                "output": "RUA ENGENHEIRO CARLOS MATA MACHADO, 299 - CENTRO35.790-000 – CURVELO – MG"
+            },
+            {
+                "input": "UAI – DIAMANTINA",
+                "output": "Rua Vicente Figueiredo, 85 - Centro39.100-000 – DIAMANTINA - MG"
+            },
+            {
+                "input": "UAI - DIVINÓPOLIS",
+                "output": "RUA GOIÁS, 206 – CENTRO35500-000 – DIVINÓPOLIS – MG"
+            },
+            {
+                "input": "UAI - ENGENHEIRO NAVARRO",
+                "output": "Rua Neuza Dias, 55 – CENTRO39417-000 – ENGENHEIRO NAVARRO – MG"
+            },
+            {
+                "input": "UAI - FELÍCIO DOS SANTOS",
+                "output": "Praça Sagrado Coração, 140 - Centro39180-000 - FELÍCIO DOS SANTOS - MG"
+            },
+            {
+                "input": "UAI – GOVERNADOR VALADARES",
+                "output": "Av. DOUTOR RAIMUNDO MONTEIRO RESENDE, 330 – LOJAS 01,02 E 03 – TERREO – CENTRO – GV SHOPPING35010–177 – GOVERNADOR VALADARES – MG"
+            },
+            {
+                "input": "UAI - EXTREMA",
+                "output": "Avenida Vereador José Ferreira, Nº 41, CentroCEP: 37.640-000 - EXTREMA - MG "
+            },
+            {
+                "input": "UAI - IPANEMA",
+                "output": "Avenida Sete de Setembro, 728 – CentroCEP: 36.095-000 –IPANEMA - MG"
+            },
+            {
+                "input": "UAI – IPATINGA",
+                "output": "Av. MACAPÁ, 655 – VENEZA35164-253 – IPATINGA – MG"
+            },
+            {
+                "input": "UAI – ITAJUBÁ",
+                "output": "Av. PROF. IVAN DOS SANTOS PEREIRA, 47 – SÃO VICENTE37500-005 – ITAJUBÁ – MG"
+            },
+            {
+                "input": "UAI -  JOÃO MONLEVADE",
+                "output": "Rua Lucinda Soares da Fonseca, n°36 - Bairro JKCEP: 35.930-692 - JOÃO MONLEVADE - MG"
+            },
+            {
+                "input": "UAI - JOAQUIM FELÍCIO",
+                "output": "Avenida Getúlio Vargas, 135 – CentroCEP: 39.240-000 – JOAQUIM FELÍCIO - MG"
+            },
+            {
+                "input": "UAI – JUIZ DE FORA  (SHOPPING JARDIM NORTE)",
+                "output": "Av. BRASIL, 6345 – LOJAS 100/101 SHOPPING JARDIM NORTE – MARIANO PROCÓPIO36080-060 – JUIZ DE FORA – MG"
+            },
+            {
+                "input": "UAI – JUIZ DE FORA  (SANTA CRUZ SHOPPING)",
+                "output": "R. JARBAS DE JERY SANTOS, 1655 – CENTRO360813-150 – JUIZ DE FORA – MG"
+            },
+            {
+                "input": "UAI - LAVRAS",
+                "output": "PRAÇA MONSENHOR DOMINGOS PINHEIRO, 79 – CENTRO37.200-000 – LAVRAS – MG"
+            },
+            {
+                "input": "UAI - LEOPOLDINA",
+                "output": "RUA BARÃO DE COTEGIPE, 10 – CENTRO36.700-000 – LEOPOLDINA – MG"
+            },
+            {
+                "input": "UAI - MURIAÉ",
+                "output": "Av. JK, 1377 – CENTRO36880-001 – MURIAÉ – MG"
+            },
+            {
+                "input": "UAI – MONTES CLAROS",
+                "output": "Av. Donato Quintino, 90 (Loja - A9) – Cidade Nova39400-546 – MONTES CLAROS – MG"
+            },
+            {
+                "input": "UAI - OURO VERDE DE MINAS",
+                "output": "Rua Cícero Xavier de Vasconcelos, 19, Centro39855-000 - OURO VERDE DE MINAS -  MG"
+            },
+            {
+                "input": "UAI - PARACATU",
+                "output": "PRAÇA ALDEMAR SILVA NEIVA, 147 - CENTRO38.600-000 – PARACATU – MG"
+            },
+            {
+                "input": "UAI - PASSOS",
+                "output": "RUA DOS ENGENHEIROS, 199 – CENTRO37.900-020 – PASSOS – MG"
+            },
+            {
+                "input": "UAI – PATOS DE MINAS",
+                "output": "AV. JOSÉ DE SANTANA, 1307 – CENTRO38.700-052 – PATOS DE MINAS – MG"
+            },
+            {
+                "input": "UAI – POÇOS DE CALDAS",
+                "output": "RUA 15 DE NOVEMBRO, 386 - CENTRO37.701-038 – POÇOS DE CALDAS – MG"
+            },
+            {
+                "input": "UAI – PONTE NOVA",
+                "output": "AV. ABDALLA FELÍCIO,68 - CENTRO36.042-030 – PONTE NOVA – MG"
+            },
+            {
+                "input": "UAI - PORTEIRINHA",
+                "output": "Rua Benjamin Constant, 103 –CentroCEP: 39520-000 – PORTEIRINHA - MG"
+            },
+            {
+                "input": "UAI – POUSO ALEGRE",
+                "output": "AV: DOUTOR JOÃO BERALDO, 242 – CENTRO37.550-074 – POUSO ALEGRE – MG"
+            },
+            {
+                "input": "UAI – PRAÇA SETE",
+                "output": "AV. AMAZONAS, 478 – CENTRO30.180-001 – BELO HORIZONTE – MG"
+            },
+            {
+                "input": "UAI – SÃO JOÃO DEL REI",
+                "output": "AVENIDA JOSUÉ DE QUEIROZ Nº 910 – BAIRRO MATOZINHOS36305-146 - SÃO JOÃO DEL REI"
+            },
+            {
+                "input": "UAI – SÃO SEBASTIÃO DO PARAÍSO",
+                "output": "AVENIDA OLIVEIRA RESENDE, 698 – CENTRO37.950-000 – SÃO SEBASTIÃO DO PARAÍSO – MG"
+            },
+            {
+                "input": "UAI - SARZEDO",
+                "output": "Rua Professora Efigênia Mendonça Pinheiro, 199 - Centro32450-000 - Sarzedo - MG"
+            },
+            {
+                "input": "UAI – SETE LAGOAS",
+                "output": "AV. CACHOEIRA DA PRATA, 473 – CANAÃ35.700-318 – SETE LAGOAS – MG"
+            },
+            {
+                "input": "UAI – SENHORA DOS REMÉDIOS",
+                "output": "RUA CORONEL FERRÃO, 206 – CENTRO36.275-000 – SENHORA DOS REMÉDIOS– MG"
+            },
+            {
+                "input": "UAI – TEÓFILO OTONI",
+                "output": "AV. ALFREDO SÁ, 2221 - JARDIM DAS ACÁCIAS39.803-000 – TEÓFILO OTONI – MG"
+            },
+            {
+                "input": "UAI – TRÊS CORAÇÕES",
+                "output": "Avenida Rei Pelé, 1048 - NOSSA SRA. APARECIDA 37.410-770 – TRÊS CORAÇÕES – MG"
+            },
+            {
+                "input": "UAI – UBERABA",
+                "output": "RUA TRISTÃO DE CASTRO, 575 - SÃO BENEDITO38022-010 – UBERABA – MG"
+            },
+            {
+                "input": "UAI - UBERLÂNDIA",
+                "output": "AV. BÉLGICA, 1220 (PÁTIO SABIÁ) - TIBERY38405-030 – UBERLÂNDIA – MG"
+            },
+            {
+                "input": "UAI - VARGINHA",
+                "output": "RUA HUMBERTO PIZZO, 999 – JARDIM CANAÃ37006-715– VARGINHA – MG"
+            },
+            {
+                "input": "UAI – VENDA NOVA",
+                "output": "AV. CRISTIANO MACHADO, 11.833 – VILA CLÓRIS – PISO L2-G4 SHOPPING ESTAÇÃO31.744-007 – BELO HORIZONTE – MG"
+            }
+        ]
+    },
+    "NAF": {
+        "entries": [
+            {
+                "input": "Onde fazer a carteira  do NAF?",
+                "output": "O Atendimento para que seja realizado cadastro de visita pode ser solicitado presencialmente pelo familiar em qualquer NAF (Núcleo de Assistência a Família) do Estado de Minas Gerais, sem a necessidade de se deslocar para a cidade onde o recluso esteja preso. Acesse o link para agendar o atendimento: https://www.mg.gov.br/agendamento_servico/cadastro-visita-social"
+            },
+            {
+                "input": "Como agendar para solicitar a carteira para visitar um preso?",
+                "output": "É necessário realizar o Atendimento para que seja realizado a renovação do cadastro que pode ser solicitado presencialmente pelo familiar em qualquer NAF (Núcleo de Assistência a Família) do Estado de Minas Gerais, sem a necessidade de se deslocar para a cidade onde o recluso esteja preso. Acesse o site https://www.mg.gov.br/agendamento_servico/cadastro-visita-social para agendar o atendimento e para obter maiores informações sobre o serviço"
+            },
+            {
+                "input": "quero saber se miha carteira de visita social está pronta",
+                "output": "Informamos que após a solicitação do cadastro de visita social o credenciamento é realizado no prazo de 10 dias úteis. No ato do atendimento  é entregue ao cidadão um protocolo com data e horário previsto para o credenciamento da carteira de visita social. \n Caso tenha perdido o protocolo ou não possa comparecer na data prevista poderá agendar retorno de credenciamento no Toten(maquinas de auto atendimento da Unidade) ou  enviar e-mail para assistência Social, para localizar o e-mail da Unidade de atendimento que deu entrada com toda documentação acesse: https://depen.seguranca.mg.gov.br/index.php/visitantes/nucleo-de-assistencia-as-familias"
+            },
+            {
+                "input": "Como faço o cadastro de visita sem precisar de comparecer na UAI, moro em outra cidade e não posso ir pessoalmente posso fazer o cadastro a distancia, é posição fazer o cadastro pelo correio, posso fazer o cadastro de visitas postando os documentos",
+                "output": "O cadastramento é feito pessoalmente no NAF, ou na própria unidade prisional caso essa não tenha um NAF de referência. Contudo, caso o interessado resida a mais de 100 (cem) quilômetros da unidade prisional, os documentos para cadastro poderão ser enviados via correios para os NAF’s que possuem esse serviço. Clique aqui  para verificar a documentação necessária.\n\nObs: Este serviço é executado somente pelos NAF’s Divinópolis, Ponte Nova, Coronel Fabriciano, Praça Sete (Belo Horizonte) e Muriaé.\n\nEm realização aos outros NAF’s, e para as unidades prisionais que não têm um NAF de referência, a documentação deverá ser enviada para as unidades prisionais onde a pessoa privada de liberdade está admitida.\n\nOBS: Enviar somente as cópias dos documentos não sendo necessário que envie os originais. Contudo, as cópias devem ser autenticadas em cartório. Maiores informações acesse: https://depen.seguranca.mg.gov.br/visitantes/servicos?view=article&id=3689&catid=2"
+            },
+            {
+                "input": "Preciso do atestado carcerário, quero o atestado de carcere, como emitir o atestado carcerário",
+                "output": "O atestado carcerário é o documento onde consta o registro prisional das pessoas privadas de liberdade, contendo as seguintes informações: tipo de regime da prisão, local atual de admissão além das admissões anteriores, e o registro de faltas disciplinares, caso possua. Ele pode ser solicitado para fins de recebimento do auxílio reclusão, para rescisão de contrato de trabalho, para reconhecimento de paternidade, dentre outros.\n\nAs pessoas que desejam ter acesso a este documento devem ser maiores de 18 anos, familiares ou advogados legalmente constituídos, e apresentar documentação necessária justificando seu pedido.\n\nPara solicitar esse serviço, acesse o link abaixo e agende para fazer a retirada do atestado carcerário em qualquer NAF:\n\nLink: https://www.mg.gov.br/conteudo/agendamento-online/emissao-de-atestado-carcerario"
+            },
+            {
+                "input": "Como solicitar o atestado de dias trabalhados, atestado de dias estudados, atestado de estudos",
+                "output": "Os atestados de dias trabalhados e dias estudados, poderão ser solicitados pelos familiares ou dependentes da pessoa privada de liberdade, pelas pessoas credenciadas no sistema como visitante e pelo advogado legalmente constituído.\n\nO atestado de dias trabalhados é solicitado no NAF de referência da unidade prisional em que a pessoa privada de liberdade está admitida, independente se ela já realizou alguma atividade laboral em outra unidade prisional, diferente do atestado de dias estudados que deve ser solicitado no NAF de referência da unidade prisional onde a pessoa privada de liberdade estudou.\n\nPara solicitar esse serviço, clique no linK:\n\nhttps://www.mg.gov.br/conteudo/agendamento-online/solicitacao-de-atestado-de-dias-trabalhados-e-de-dias-estudados\n\nOBS: Caso a unidade prisional em que a pessoa está admitida não tenha um NAF de referência, os atestados poderão ser solicitados na própria unidade prisional."
+            },
+            {
+                "input": "como saber onde está preso meu filho, qual o local de detenção do meu parente,  qual presidio encontra-se meu familiar",
+                "output": "O familiar do indivíduo privado de liberdade poderá pesquisar o NAF para o qual poderá se direcionar para requerer sua solicitação. Se a unidade prisional em que o indivíduo está lotado ainda não for atendida pelo NAF, a consulta apresentará a UP onde ele está, na qual atenderá os serviços aos familiares. Para realização da pesquisa acesse http://www.portalsigpri.mg.gov.br/, tenha em mãos um dos dados do indivíduo: o INFOPEN ou RG ou NOME/NOME DA MÃE/DATA DE NASCIMENTO "
+            },
+            {
+                "input": "como fazer o cadastro para visita intima, sou namorada e quero saber como visitar o preso, fui impedida de fazer o cadastro o que devo fazer, Preciso conversar com a assistente social pois meu familiar encontra-se preso como tirar minhas duvidas com relação a visitar preso, posso fazer visita virtal, ",
+                "output": "A pessoa que deseja solicitar atendimento com o profissional do Psicossocial deverá acessar o link abaixo e agendar para o NAF que atende à unidade prisional onde a pessoa presa está detida.\n\nLink: https://www.mg.gov.br/conteudo/agendamento-online/atendimento-psicossocial-presencial Caso a unidade prisional não seja atendida por nenhum NAF clique no link abaixo e entre em contato com a própria unidade para saber como solicitar o serviço\n\nLink: http://www.depen.seguranca.mg.gov.br/index.php/unidades/unidades-prisionais"
+            }
+        ]
+    }
+}

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparação de Bots</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+    <h1>Comparação de Bots</h1>
+    <div class="textarea-container">
+        <textarea id="prompt" placeholder="Digite seu prompt aqui..."></textarea>
+    </div>
+    <button onclick="compareBots()">Comparar Bots</button>
+    <div class="responses">
+        <div class="response">
+            <div class="response-title">UNDERDOG</div>
+            <div id="response-bot1">Aguardando resposta...</div>
+        </div>
+        <div class="response">
+            <div class="response-title">LANLINK</div>
+            <div id="response-bot2">Aguardando resposta...</div>
+        </div>
+        <div class="response">
+            <div class="response-title">LANLINK 2</div>
+            <div id="response-bot3">Aguardando resposta...</div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function compareBots() {
+        const prompt = document.getElementById('prompt').value;
+        if (prompt.trim() === "") {
+            alert("Por favor, insira um prompt.");
+            return;
+        }
+
+        // Chame a API para o Bot LLKv2
+        fetch('/api/bot0', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ prompt: prompt })
+        })
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('response-bot0').textContent = data.response;
+        });
+
+        // Chame a API para o Bot UNDERDOG
+        fetch('/api/bot1', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ prompt: prompt })
+        })
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('response-bot1').textContent = data.response;
+        });
+
+        // Chame a API para o Bot LANLINK
+        fetch('/api/bot2', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ prompt: prompt })
+        })
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('response-bot2').textContent = data.response;
+        });
+
+        fetch('/api/bot3', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ prompt: prompt })
+        })
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('response-bot3').textContent = data.response;
+        });
+
+
+
+    }
+</script>
+
+</body>
+</html>
