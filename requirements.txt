@@ -7,4 +7,3 @@ Requests
 typing_extensions
 webdriver_manager
 gunicorn
-time
