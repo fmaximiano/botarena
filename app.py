@@ -46,19 +46,37 @@ def get_openai_response(prompt):
         return f"Erro no OpenAI: {str(e)}"
 
 
-def get_existing_bot_response(prompt):
-    """Obtém resposta do bot LANLINK"""
-    try:
-        url = "https://fnc-seplagmg-faleconosco.azurewebsites.net/api/Chat?"
-        body = {
-            "key": os.getenv("FNC_KEY"),
-            "pergunta": prompt
-        }
-        response = requests.post(url, json=body)
+import os
+import requests
 
-        return response.text if response.status_code == 200 else "Erro na API LANLINK."
+def get_existing_bot_response(prompt):
+    """Obtém resposta do bot usando o novo endpoint /query"""
+
+    try:
+        url = "https://faleconosco-bot-backend.azurewebsites.net/api/query"
+        body = {
+            "messages": [
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+            ],
+            "overrides": {}
+        }
+
+        headers = {
+            "Content-Type": "application/json"
+        }
+
+        response = requests.post(url, json=body, headers=headers)
+
+        if response.status_code == 200:
+            return response.json().get("choices", [{}])[0].get("message", {}).get("content", "Resposta vazia.")
+        else:
+            return f"Erro na API LANLINK: {response.status_code} - {response.text}"
     except Exception as e:
         return f"Erro no bot LANLINK: {str(e)}"
+
 
 
 def get_faleconosco_response(prompt):

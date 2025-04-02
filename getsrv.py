@@ -202,7 +202,7 @@ def coletar_e_salvar_servicos(urls):
         salvar_ultima_url_processada(url)
 
 # Carregar URLs da planilha Excel
-excel_file_path = 'srvs.xlsx'
+excel_file_path = 'urls_srvs.xlsx'
 coluna_urls = 'URL'
 df = pd.read_excel(excel_file_path)
 urls = df[coluna_urls].dropna().tolist() 
